@@ -1,5 +1,3 @@
-
-
 # Medical-to-Layman Text Simplification: A Multi-Stage Fine-Tuning Approach
 ## Project Overview **Course:** Natural Language Processing (NLP)
 
@@ -28,11 +26,66 @@ To achieve high-quality simplification, we implemented a **Two-Stage Transfer Le
 ![Two-Stage Training Pipeline Diagram](./Diagram.png)
 
 ---
+### Data set Samples 
+
+```
+{
+  "medical": "Viral replication occurs when the virus hijacks host cellular machinery to produce progeny virions.",
+  "layman": "A virus makes copies of itself inside cells so it can spread to other cells or people."
+}
+```
+--- 
+### Training Time:
+- Data generation : 5.5 hrs 
+- Stage 1 : 4.5 hrs
+- Stage 2 : 1.5 hrs
+
+#### Total : 11.5 hrs 
+
+--- 
+#### Training Epochs
+- Stage 1 (Wiki data) : 2 epochs ( 150,000 points )
+- Stage 2 (Domain data) : 5 epochs (7,213 points )
+---
+#### Evaluations 
+
+Stage 1:
+```
+========== EVALUATION RESULTS ==========
+
+BLEU
+  Base model BLEU:       22.27 (Flan_T5_base)
+  Fine-tuned BLEU:       25.28 (Wiki large fine tune)
+
+SARI
+  Base model SARI:       41.62 (Flan_T5_base)
+  Fine-tuned model SARI: 42.54 (Wiki large fine tune)
+
+=======================================
+```
+
+Stage 2:
+```
+========== EVALUATION RESULTS ==========
+
+BLEU
+  Base model BLEU:       22.27 (Flan_T5_base)
+  Fine-tuned BLEU:       25.40 (Medical Data Fine Tune)
+
+SARI
+  Base model SARI:       41.62 (Flan_T5_base)
+  Fine-tuned model SARI: 43.30 (Medical Data Fine Tune)
+
+=======================================
+```
+---
+
 
 ## Repository Structure
 This repository is organized to reflect the chronological stages of our training pipeline and experiments.
 
-### Core Pipeline* **`Training Data Set Generation/`**
+### Core Pipeline
+*  **`Training Data Set Generation/`**
 * Contains all scripts for scrapping, cleaning, and synthesizing the medical dataset (Kaggle, JEBS, Med-EASi, Cochrane).
 
 
@@ -53,7 +106,8 @@ This repository is organized to reflect the chronological stages of our training
 
 
 
-### Experimental testing **`Experiment-only domain specific training/`**
+### Experimental testing
+* **`Experiment-only domain specific training/`**
 * **Purpose:** To validate the necessity of the two-stage approach.
 * **Process:** In this experiment, we fine-tuned the base `flan-t5` model *directly* on the medical data, skipping Stage 1.
 * **Comparison:** Comparing results from this folder against `Stage 2 results` demonstrates the performance gain achieved by pre-training on general simplification tasks first.
