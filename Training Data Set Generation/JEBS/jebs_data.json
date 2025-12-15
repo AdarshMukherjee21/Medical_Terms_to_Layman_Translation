@@ -1,0 +1,4498 @@
+[
+  {
+    "med": "1-year mortality rate",
+    "simp": "deaths"
+  },
+  {
+    "med": "1/Pcr",
+    "simp": "creatinine clearance divided by serum creatinine concentration"
+  },
+  {
+    "med": "3-beta-hydroxybutyrate",
+    "simp": "blood ketones"
+  },
+  {
+    "med": "a bulge in the fovea",
+    "simp": "cuplike depression in the eye"
+  },
+  {
+    "med": "a progressive disease",
+    "simp": "disease that keeps getting worse"
+  },
+  {
+    "med": "AAA",
+    "simp": "a bulge in a blood vessel caused by a weakness in the blood vessel wall"
+  },
+  {
+    "med": "AAA",
+    "simp": "abnormal ballooning of the major abdominal artery"
+  },
+  {
+    "med": "AAA",
+    "simp": "an abnormal ballooning of the major abdominal artery"
+  },
+  {
+    "med": "AAA",
+    "simp": "ballooning of the aorta wall"
+  },
+  {
+    "med": "AAA",
+    "simp": "is an abnormal ballooning of the major abdominal artery, or blood vessel."
+  },
+  {
+    "med": "AAA",
+    "simp": "the breaking open of the largest artery in the body"
+  },
+  {
+    "med": "AAA",
+    "simp": "When it swells"
+  },
+  {
+    "med": "AAA",
+    "simp": "When part of it stretches out like a balloon"
+  },
+  {
+    "med": "AAA",
+    "simp": "widening of the aorta"
+  },
+  {
+    "med": "AAA-related deaths",
+    "simp": "deaths related to the AAA"
+  },
+  {
+    "med": "AAAs",
+    "simp": "a bulge in a blood vessel caused by a weakness in the blood vessel wall, usually where it branches"
+  },
+  {
+    "med": "AAAs",
+    "simp": "AAAs -- ballooning of the aorta wall"
+  },
+  {
+    "med": "AAAs",
+    "simp": "an abnormal ballooning of the major abdominal artery"
+  },
+  {
+    "med": "AAAs",
+    "simp": "an abnormal ballooning of the major abdominal artery, or blood vessel"
+  },
+  {
+    "med": "AAAs",
+    "simp": "ballooning of the aorta"
+  },
+  {
+    "med": "AAAs",
+    "simp": "ballooning of the aorta wall"
+  },
+  {
+    "med": "AAAs",
+    "simp": "is an abnormal ballooning of the major abdominal artery, or blood vessel"
+  },
+  {
+    "med": "AAAs",
+    "simp": "part of it stretches out like a balloon"
+  },
+  {
+    "med": "AAAs",
+    "simp": "When part of it stretches out like a balloon"
+  },
+  {
+    "med": "AAAs",
+    "simp": "widening of the aorta"
+  },
+  {
+    "med": "abdominal aorta",
+    "simp": "the largest blood vessel in the body"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "a bulge in a blood vessel caused by a weakness in the blood vessel wall"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "a lasting widening of the aorta in the abdomen"
+  },
+  {
+    "med": "Abdominal aortic aneurysm",
+    "simp": "a permanent growth of the abdominal aorta"
+  },
+  {
+    "med": "Abdominal aortic aneurysm",
+    "simp": "a permanent widening of the abdominal aorta"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "a permanent widening of the abdominal aorta"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "abnormal ballooning of the major abdominal artery"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "an abnormal ballooning of the major abdominal artery"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "ballooning of the aorta wall"
+  },
+  {
+    "med": "Abdominal aortic aneurysm",
+    "simp": "If it stretches to more than 3 cm across and stays that way"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "If this part is more than half again the width of the rest of the artery"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "is an abnormal ballooning of the major abdominal artery, or blood vessel."
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "lasting widening of the aorta in the abdomen, over an inch (3 cm) in the diameter or one and a half width of the aortic diameter at the level of the diaphragm (a muscle that separated the chest from the abdomen)."
+  },
+  {
+    "med": "Abdominal aortic aneurysm",
+    "simp": "permanent widening of the abdominal aorta that exceeds 3 cm (over 1 inch)"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "the breaking open of the largest artery in the body"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "When it swells"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "When part of it stretches out like a balloon"
+  },
+  {
+    "med": "abdominal aortic aneurysm",
+    "simp": "widening of the aorta"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "a bulge in a blood vessel caused by a weakness in the blood vessel wall, usually where it branches"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "AAAs -- ballooning of the aorta wall"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "an abnormal ballooning of the major abdominal artery"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "an abnormal ballooning of the major abdominal artery, or blood vessel"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "ballooning of the aorta"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "ballooning of the aorta wall"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "is an abnormal ballooning of the major abdominal artery, or blood vessel"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "part of it stretches out like a balloon"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "When part of it stretches out like a balloon"
+  },
+  {
+    "med": "abdominal aortic aneurysms",
+    "simp": "widening of the aorta"
+  },
+  {
+    "med": "Abdominal aortography",
+    "simp": "a procedure that finds areas in the blood vessels where re may be narrowing or closing"
+  },
+  {
+    "med": "Abdominal aortography",
+    "simp": "finds areas in the blood vessels where re may be narrowing or closing"
+  },
+  {
+    "med": "Abdominal aortography",
+    "simp": "inject dye so the arteries can be seen on X-rays"
+  },
+  {
+    "med": "Abdominal aortography",
+    "simp": "medical imaging"
+  },
+  {
+    "med": "abdominal artery",
+    "simp": "blood vessel"
+  },
+  {
+    "med": "abdominal artery",
+    "simp": "the largest blood vessel in the body"
+  },
+  {
+    "med": "abdominal artery",
+    "simp": "the largest blood vessel in the body and runs through the middle of the torso area"
+  },
+  {
+    "med": "acetoacetate",
+    "simp": "urine ketones"
+  },
+  {
+    "med": "acetone",
+    "simp": "a chemical produced by the ketone found in urine"
+  },
+  {
+    "med": "acute kidney injury",
+    "simp": "a condition where the kidneys suddenly stop filtering your blood"
+  },
+  {
+    "med": "acute respiratory distress syndrome",
+    "simp": "a life-threatening lung condition in which the lungs are filling with fluid"
+  },
+  {
+    "med": "acute respiratory distress syndrome",
+    "simp": "when the lungs suddenly become inflamed and it is hard to breath"
+  },
+  {
+    "med": "adiponectin",
+    "simp": "a hormone made by fat cells that improves insulin sensitivity"
+  },
+  {
+    "med": "aerobic energy metabolism",
+    "simp": "oxygen used to make energy from sugars"
+  },
+  {
+    "med": "agents",
+    "simp": "most common fungi causing these infections"
+  },
+  {
+    "med": "agronomy",
+    "simp": "study of soil and produce production"
+  },
+  {
+    "med": "all-cause mortality",
+    "simp": "as death from any causes"
+  },
+  {
+    "med": "allopurinol",
+    "simp": "a medicine to treat gout and kidney stones"
+  },
+  {
+    "med": "allopurinol",
+    "simp": "lowers uric acid levels"
+  },
+  {
+    "med": "allopurinol",
+    "simp": "the drug that stops production of the uric acid in the body"
+  },
+  {
+    "med": "allopurinol",
+    "simp": "which usually lowers uric acid levels"
+  },
+  {
+    "med": "alopecia areata",
+    "simp": "hair loss"
+  },
+  {
+    "med": "alopecia areata",
+    "simp": "patchy hairloss"
+  },
+  {
+    "med": "aneurysm",
+    "simp": "bulge in a blood vessel caused by a weakness in the blood vessel wall"
+  },
+  {
+    "med": "aneurysm",
+    "simp": "bulge in a blood vessel caused by a weakness in the blood vessel wall, usually where it branches"
+  },
+  {
+    "med": "aneurysm rupture",
+    "simp": "breaking open of the AAA"
+  },
+  {
+    "med": "aneurysms",
+    "simp": "bulge in a blood vessel caused by a weakness in the blood vessel wall"
+  },
+  {
+    "med": "aneurysms",
+    "simp": "bulge in a blood vessel caused by a weakness in the blood vessel wall, usually where it branches"
+  },
+  {
+    "med": "anti-CD20",
+    "simp": "a treatment for diseases where the immune system attacks your own body"
+  },
+  {
+    "med": "anti-CD20",
+    "simp": "treatments used to treat immune-mediated autoimmune diseases"
+  },
+  {
+    "med": "anti-CD20 therapy",
+    "simp": "(antiviral) therapy"
+  },
+  {
+    "med": "anti-CD20 therapy",
+    "simp": "chemicals that protect the body"
+  },
+  {
+    "med": "anti-CD20 treatments",
+    "simp": "a treatment for diseases where the immune system attacks your own body"
+  },
+  {
+    "med": "anti-CD20 treatments",
+    "simp": "treatments used to treat immune-mediated autoimmune diseases"
+  },
+  {
+    "med": "anti-fibrotic treatments",
+    "simp": "drugs that slow down development of fibers"
+  },
+  {
+    "med": "anti-fibrotic treatments",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "anti-inflammatory pathways",
+    "simp": "supports body processes that reduce inflammation"
+  },
+  {
+    "med": "anti-SARS-CoV-2 mAbs",
+    "simp": "long-acting antibodies"
+  },
+  {
+    "med": "antibody",
+    "simp": "a blood protein made in response to and fight against a specific germ"
+  },
+  {
+    "med": "antibody",
+    "simp": "blood protein made in response to and fight against a specific germ"
+  },
+  {
+    "med": "antibody",
+    "simp": "identify the virus"
+  },
+  {
+    "med": "antibody",
+    "simp": "used by the immune system to identify intruders"
+  },
+  {
+    "med": "antibody",
+    "simp": "which identify the virus"
+  },
+  {
+    "med": "antifibrotic",
+    "simp": "drugs that slow down the development of fibers"
+  },
+  {
+    "med": "antifibrotic",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "drugs that slow down development of fibers"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "drugs that slow down the scarring of lung tissues"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "drugs that sow down fibrosis -- the build-up of scar tissue"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "treatment that slows down development of fiber tissues"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "treatment that slows down the process of lung scarring"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "treatment the slows down the process of lung scarring"
+  },
+  {
+    "med": "Antifibrotic agents",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotic drugs",
+    "simp": "drugs that slow down the development of fibers"
+  },
+  {
+    "med": "antifibrotic drugs",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotic therapies",
+    "simp": "drugs that sow down fibrosis -- the build-up of scar tissue"
+  },
+  {
+    "med": "antifibrotic therapies",
+    "simp": "treatment that slows down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotic therapies",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "drugs that slow down development of fibers"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "drugs that slow down the scarring of lung tissues"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "drugs that sow down fibrosis -- the build-up of scar tissue"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "treatment that slows down development of fiber tissues"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "treatment that slows down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "treatment the slows down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotic therapy",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "antifibrotics",
+    "simp": "drugs that slow down development of fibers"
+  },
+  {
+    "med": "antifibrotics",
+    "simp": "drugs that slow down the scarring of lung tissues"
+  },
+  {
+    "med": "antifibrotics",
+    "simp": "treatments that slow down the process of lung scarring"
+  },
+  {
+    "med": "antihypertensive agents",
+    "simp": "done to reduce blood pressure"
+  },
+  {
+    "med": "antihypertensive therapy",
+    "simp": "done to reduce blood pressure"
+  },
+  {
+    "med": "aorta",
+    "simp": "the main artery that brings blood to the body"
+  },
+  {
+    "med": "aortic",
+    "simp": "major abdominal artery"
+  },
+  {
+    "med": "aortic stent graft",
+    "simp": "involves strengthening the artery with a tube"
+  },
+  {
+    "med": "aortic stent graft",
+    "simp": "meant to seal the widened area of the aorta from the inside of the aneurysm, while leaving the wall of the aneurysm untouched"
+  },
+  {
+    "med": "Arruga's ring suture",
+    "simp": "a particular procedure"
+  },
+  {
+    "med": "Asthenia",
+    "simp": "lack of energy"
+  },
+  {
+    "med": "asymptomatic",
+    "simp": "without symptoms"
+  },
+  {
+    "med": "atherosclerosis",
+    "simp": "a disease of the arteries caused by the buildup of fatty material on their inner walls"
+  },
+  {
+    "med": "atherosclerosis",
+    "simp": "disease of the arteries caused by the buildup of fatty material on their inner walls"
+  },
+  {
+    "med": "atherosclerosis",
+    "simp": "plaque deposit on the artery wall"
+  },
+  {
+    "med": "auto-immune responses",
+    "simp": "the body destroys its own normal tissues"
+  },
+  {
+    "med": "barbae",
+    "simp": "barber's itch"
+  },
+  {
+    "med": "BCVA",
+    "simp": "vision sharpness"
+  },
+  {
+    "med": "BERA",
+    "simp": "tested how well sounds created electrical signals in the brain"
+  },
+  {
+    "med": "best corrected visual acuity",
+    "simp": "vision sharpness"
+  },
+  {
+    "med": "best-corrected postoperative visual acuity",
+    "simp": "vison sharpness"
+  },
+  {
+    "med": "best-corrected VA",
+    "simp": "ability to see small details in a standard vision test"
+  },
+  {
+    "med": "Best-corrected visual acuity",
+    "simp": "ability to see small details in a standard vision test"
+  },
+  {
+    "med": "best-corrected visual acuity",
+    "simp": "visual sharpness"
+  },
+  {
+    "med": "beta blockade",
+    "simp": "medications that reduce heart rate and blood pressure"
+  },
+  {
+    "med": "beta blockade",
+    "simp": "which lower heart rate"
+  },
+  {
+    "med": "beta-adrenergic blockers",
+    "simp": "slow the heart rate have not worked"
+  },
+  {
+    "med": "beta-adrenergic blockers",
+    "simp": "which slow the heart rate"
+  },
+  {
+    "med": "biomarker",
+    "simp": "biological sign of irregular health"
+  },
+  {
+    "med": "biomarkers",
+    "simp": "biological sign of irregular health"
+  },
+  {
+    "med": "blood urea nitrogen",
+    "simp": "liver waste product"
+  },
+  {
+    "med": "blood urea nitrogen",
+    "simp": "measure of kidney function"
+  },
+  {
+    "med": "Blood β-hydroxybutyrate",
+    "simp": "a type of ketone"
+  },
+  {
+    "med": "blood β-hydroxybutyrate",
+    "simp": "a type of ketone"
+  },
+  {
+    "med": "Blood β-hydroxybutyrate",
+    "simp": "a type of ketone, or enery molecule"
+  },
+  {
+    "med": "blood β-hydroxybutyrate",
+    "simp": "a type of ketone, or enery molecule"
+  },
+  {
+    "med": "BMI",
+    "simp": "connected to the body weight"
+  },
+  {
+    "med": "BMI",
+    "simp": "weight-to-height ratio"
+  },
+  {
+    "med": "BMI",
+    "simp": "which is connected to the body weight"
+  },
+  {
+    "med": "Body Mass Index",
+    "simp": "(a measure of fat in the body"
+  },
+  {
+    "med": "body mass index",
+    "simp": "connected to the body weight"
+  },
+  {
+    "med": "body mass index",
+    "simp": "weight-to-height ratio"
+  },
+  {
+    "med": "body mass index",
+    "simp": "which is connected to the body weight"
+  },
+  {
+    "med": "BOHB",
+    "simp": "a chemical measured in blood"
+  },
+  {
+    "med": "bowel mucosal damage",
+    "simp": "moist organ lining, damage"
+  },
+  {
+    "med": "Brainstem Electrical Response Audiometry",
+    "simp": "tested how well sounds created electrical signals in the brain"
+  },
+  {
+    "med": "BUN",
+    "simp": "liver waste product"
+  },
+  {
+    "med": "BUN",
+    "simp": "measure of kidney function"
+  },
+  {
+    "med": "butyrate",
+    "simp": "\"good\" bacteria"
+  },
+  {
+    "med": "Butyrate",
+    "simp": "a building block for chemicals that colon cells use for energy and chemicals that make them grow"
+  },
+  {
+    "med": "Butyrate",
+    "simp": "a small fat particle"
+  },
+  {
+    "med": "butyrate",
+    "simp": "chemical produced in the gut when the bacteria digest resistant starch"
+  },
+  {
+    "med": "butyrate",
+    "simp": "helps cell function"
+  },
+  {
+    "med": "C. militaris",
+    "simp": "a medicinal fungus"
+  },
+  {
+    "med": "can shed virus",
+    "simp": "release copies of a virus from their bodies"
+  },
+  {
+    "med": "capillary or serum β-hydroxybutyrate",
+    "simp": "a type of ketone"
+  },
+  {
+    "med": "capillary or serum β-hydroxybutyrate",
+    "simp": "a type of ketone, or enery molecule"
+  },
+  {
+    "med": "capitis",
+    "simp": "fungal infection of the scalp"
+  },
+  {
+    "med": "capitis",
+    "simp": "ringworm of the scalp"
+  },
+  {
+    "med": "cardiovascular disease",
+    "simp": "(heart and artery) disease"
+  },
+  {
+    "med": "cataract",
+    "simp": "a clouding of the lens in the eye"
+  },
+  {
+    "med": "cataract",
+    "simp": "cloudiness in the lens"
+  },
+  {
+    "med": "catastrophic rupture",
+    "simp": "breaking open of the artery"
+  },
+  {
+    "med": "Ccr",
+    "simp": "a urine test that measures how well the kidneys are working"
+  },
+  {
+    "med": "Ccr",
+    "simp": "filtered from the blood solely through the kidneys"
+  },
+  {
+    "med": "CD4/CD8 ratio inversion",
+    "simp": "altered immune function"
+  },
+  {
+    "med": "CDVA",
+    "simp": "meaning with glasses or contacts if needed"
+  },
+  {
+    "med": "CDVA",
+    "simp": "vision sharpness over distance"
+  },
+  {
+    "med": "center of pressure",
+    "simp": "where the foot meets the pressure from the ground"
+  },
+  {
+    "med": "center of pressure",
+    "simp": "where the total sum of pressure field acts on the body"
+  },
+  {
+    "med": "center of pressure",
+    "simp": "which measures where the foot meets the pressure from the ground"
+  },
+  {
+    "med": "CGM",
+    "simp": "capable of providing real-time monitoring directly in the body"
+  },
+  {
+    "med": "Chorioretinal atrophy",
+    "simp": "eye wasting"
+  },
+  {
+    "med": "chronic",
+    "simp": "lasting for a while"
+  },
+  {
+    "med": "chronic",
+    "simp": "lasting more than or equal to 21 days"
+  },
+  {
+    "med": "Chronic",
+    "simp": "long-lasting"
+  },
+  {
+    "med": "chronic kidney disease",
+    "simp": "(long-lasting) kidney disease"
+  },
+  {
+    "med": "chronic obstructive pulmonary disease",
+    "simp": "a group of lung diseases that block airflow and make breathing hard"
+  },
+  {
+    "med": "chronic obstructive pulmonary disease",
+    "simp": "a lung disease that blocks airflow to the lungs"
+  },
+  {
+    "med": "chronic obstructive pulmonary disease",
+    "simp": "group of lung diseases that block airflow and make breathing hard"
+  },
+  {
+    "med": "chronic relapsing",
+    "simp": "when a person's symptoms worsen after a period of getting better with the same infection"
+  },
+  {
+    "med": "CKD",
+    "simp": "(long-lasting) kidney disease"
+  },
+  {
+    "med": "clearance",
+    "simp": "how well the kidneys filter creatinine out of the blood"
+  },
+  {
+    "med": "clinical remission",
+    "simp": "improvements in the symptoms"
+  },
+  {
+    "med": "clinical response rate",
+    "simp": "percentage of people in a study or treatment group who have a partial or complete response to the treatment within a certain period of time"
+  },
+  {
+    "med": "CM",
+    "simp": "high-carbon form"
+  },
+  {
+    "med": "co-morbidities",
+    "simp": "medical conditions that commonly co-exist"
+  },
+  {
+    "med": "co-morbidities",
+    "simp": "medical conditions that commonly co-exist with IPF"
+  },
+  {
+    "med": "co-morbidities",
+    "simp": "simultaneous presence of two or more diseases or medical conditions in a patient"
+  },
+  {
+    "med": "colonic mucosal growth",
+    "simp": "the moist inner lining"
+  },
+  {
+    "med": "comorbidities",
+    "simp": "medical conditions that commonly co-exist"
+  },
+  {
+    "med": "comorbidities",
+    "simp": "medical conditions that commonly co-exist with IPF"
+  },
+  {
+    "med": "comorbidities",
+    "simp": "simultaneous presence of two or more diseases or medical conditions in a patient"
+  },
+  {
+    "med": "compassionate use program",
+    "simp": "allows the use of unauthorized drugs as a treatment option"
+  },
+  {
+    "med": "conducted a prospective analytical study",
+    "simp": "collected and analyzed data"
+  },
+  {
+    "med": "cone",
+    "simp": "color vision cells"
+  },
+  {
+    "med": "continuous glucose monitoring",
+    "simp": "capable of providing real-time monitoring directly in the body"
+  },
+  {
+    "med": "contrast",
+    "simp": "switching between hot and cold"
+  },
+  {
+    "med": "convalescent plasma",
+    "simp": "blood from people who have recovered from an illness"
+  },
+  {
+    "med": "COP",
+    "simp": "where the foot meets the pressure from the ground"
+  },
+  {
+    "med": "COP",
+    "simp": "where the total sum of pressure field acts on the body"
+  },
+  {
+    "med": "COP",
+    "simp": "which measures where the foot meets the pressure from the ground"
+  },
+  {
+    "med": "COPD",
+    "simp": "a group of lung diseases that block airflow and make breathing hard"
+  },
+  {
+    "med": "COPD",
+    "simp": "a lung disease that blocks airflow to the lungs"
+  },
+  {
+    "med": "COPD",
+    "simp": "group of lung diseases that block airflow and make breathing hard"
+  },
+  {
+    "med": "Cordyceps militaris",
+    "simp": "a medicinal fungus"
+  },
+  {
+    "med": "coronavirus disease 2019",
+    "simp": "COVID-19"
+  },
+  {
+    "med": "corporis",
+    "simp": "ringworm"
+  },
+  {
+    "med": "corrected distance visual acuity",
+    "simp": "meaning with glasses or contacts if needed"
+  },
+  {
+    "med": "corrected distance visual acuity",
+    "simp": "vision sharpness over distance"
+  },
+  {
+    "med": "COVID-19",
+    "simp": "COVID-19"
+  },
+  {
+    "med": "creatinine",
+    "simp": "a byproduct of creatine breakdown which supplies energy for muscle contraction"
+  },
+  {
+    "med": "creatinine",
+    "simp": "a waste product of muscle metabolism"
+  },
+  {
+    "med": "creatinine",
+    "simp": "a waste product of muscles"
+  },
+  {
+    "med": "creatinine",
+    "simp": "a waste product of our muscle cells"
+  },
+  {
+    "med": "creatinine",
+    "simp": "byproduct of creatine breakdown which supplies energy for muscle contraction"
+  },
+  {
+    "med": "creatinine",
+    "simp": "filtered from the blood by the kidneys and is often used to determine kidney function"
+  },
+  {
+    "med": "creatinine",
+    "simp": "muscle break-down waste product"
+  },
+  {
+    "med": "creatinine clearance",
+    "simp": "a urine test that measures how well the kidneys are working"
+  },
+  {
+    "med": "creatinine clearance",
+    "simp": "filtered from the blood by the kidneys and is often used to determine kidney function"
+  },
+  {
+    "med": "creatinine clearance",
+    "simp": "filtered from the blood solely through the kidneys"
+  },
+  {
+    "med": "creatinine clearance",
+    "simp": "which measures how well the kidneys filter creatinine out of the blood"
+  },
+  {
+    "med": "creatinine clearance from tubular secretion",
+    "simp": "a creatinine in blood filtration test"
+  },
+  {
+    "med": "cruris",
+    "simp": "gym itch"
+  },
+  {
+    "med": "cruris",
+    "simp": "jock itch"
+  },
+  {
+    "med": "CTScr",
+    "simp": "a creatinine in blood filtration test"
+  },
+  {
+    "med": "CUP",
+    "simp": "allows the use of unauthorized drugs as a treatment option"
+  },
+  {
+    "med": "cure rates",
+    "simp": "patient tested negative on a swab culture and no organisms were seen under a microscope"
+  },
+  {
+    "med": "cystatin C",
+    "simp": "produced by all body cells except blood cells"
+  },
+  {
+    "med": "cytokines",
+    "simp": "immune signals that promote inflammation"
+  },
+  {
+    "med": "defocus curves",
+    "simp": "inability to focus"
+  },
+  {
+    "med": "degenerative",
+    "simp": "causing deterioration"
+  },
+  {
+    "med": "degenerative",
+    "simp": "deteriorating"
+  },
+  {
+    "med": "delayed hypersensitivity reaction",
+    "simp": "exaggerated immune responses occurring in response to a germ or allergen"
+  },
+  {
+    "med": "dermatophytes",
+    "simp": "a type of fungus"
+  },
+  {
+    "med": "dermatophytes",
+    "simp": "a type of fungus that can cause infections in humans"
+  },
+  {
+    "med": "dermatophytes",
+    "simp": "fungi"
+  },
+  {
+    "med": "dermatophytes",
+    "simp": "the most common fungi causing these infections"
+  },
+  {
+    "med": "Dermatophytic infections",
+    "simp": "(fungal) infections"
+  },
+  {
+    "med": "Dermatophytic infections",
+    "simp": "common fungal infections"
+  },
+  {
+    "med": "Dermatophytosis",
+    "simp": "a specific kind of fungal infection"
+  },
+  {
+    "med": "dermatophytosis",
+    "simp": "a type of fungal infection"
+  },
+  {
+    "med": "dermatophytosis",
+    "simp": "fungal infection"
+  },
+  {
+    "med": "dexamethasone",
+    "simp": "a drug that reduces swelling"
+  },
+  {
+    "med": "dexamethasone",
+    "simp": "steroid medication"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a common sign of starting and existing diabetes"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "A complication of diabetes"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "a complication of diabetes in which the body produces too many ketones"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "a condition caused by harmful levels of ketones in the body"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a condition due to buildup of acids in the blood called ketones"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a life-threatening complication of diabetes due to increased amount of glucose and ketones in the blood"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a life-threatening complication of Type 1 Diabetes"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a life-threatening problem caused by Type 1 diabetes"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "a problem caused by diabetes"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "a problem caused by diabetes that, if left untreated, can become life threatening"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a severe and potentially deadly complication of diabetes mellitus"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a severe complication of diabetes that can lead to death"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "a severe result of diabetes with deadly consequences"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "dangerous amounts of ketone in the body"
+  },
+  {
+    "med": "Diabetic ketoacidosis",
+    "simp": "when the body breaks down fat too quickly"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "when the body breaks down fat too quickly"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "when the body produces too many ketones too fast"
+  },
+  {
+    "med": "diabetic ketoacidosis",
+    "simp": "which develops when the body produces too many ketones too fast"
+  },
+  {
+    "med": "dialysis",
+    "simp": "which removes waste from the blood when kidneys do not work properly"
+  },
+  {
+    "med": "diaphragm",
+    "simp": "a muscle that separated the chest from the abdomen"
+  },
+  {
+    "med": "diaphragm",
+    "simp": "the muscle between the chest and the abdomen"
+  },
+  {
+    "med": "diathermy",
+    "simp": "deep heating beneath the skin"
+  },
+  {
+    "med": "different routes of administration",
+    "simp": "location through which the drug is given"
+  },
+  {
+    "med": "different routes of administration",
+    "simp": "location through which the drug is given, e.g., inhaled or swallowed"
+  },
+  {
+    "med": "diffusion capacity for carbon monoxide",
+    "simp": "a measure of how well you transfer oxygen from the lungs to blood"
+  },
+  {
+    "med": "discontinuation rates",
+    "simp": "people end up discontinuing use"
+  },
+  {
+    "med": "discontinuation rates",
+    "simp": "people often stop taking them"
+  },
+  {
+    "med": "discontinuation rates",
+    "simp": "people stop using these drugs"
+  },
+  {
+    "med": "diuretics",
+    "simp": "medicine to reduce body salt and water"
+  },
+  {
+    "med": "DKA",
+    "simp": "a common sign of starting and existing diabetes"
+  },
+  {
+    "med": "DKA",
+    "simp": "A complication of diabetes"
+  },
+  {
+    "med": "DKA",
+    "simp": "a condition caused by harmful levels of ketones in the body"
+  },
+  {
+    "med": "DKA",
+    "simp": "a condition due to buildup of acids in the blood called ketones"
+  },
+  {
+    "med": "DKA",
+    "simp": "a life-threatening complication of diabetes due to increased amount of glucose and ketones in the blood"
+  },
+  {
+    "med": "DKA",
+    "simp": "a problem caused by diabetes"
+  },
+  {
+    "med": "DKA",
+    "simp": "a problem caused by diabetes that, if left untreated, can become life threatening"
+  },
+  {
+    "med": "DKA",
+    "simp": "a severe and potentially deadly complication of diabetes mellitus"
+  },
+  {
+    "med": "DKA",
+    "simp": "a severe complication of diabetes that can lead to death"
+  },
+  {
+    "med": "DKA",
+    "simp": "a severe result of diabetes with deadly consequences"
+  },
+  {
+    "med": "DKA",
+    "simp": "when the body breaks down fat too quickly"
+  },
+  {
+    "med": "DKA",
+    "simp": "when the body produces too many ketones too fast"
+  },
+  {
+    "med": "DKA",
+    "simp": "which develops when the body produces too many ketones too fast"
+  },
+  {
+    "med": "double-blind",
+    "simp": "the researchers nor the patients knew who was in which group"
+  },
+  {
+    "med": "double-blinded",
+    "simp": "the doctors and the patients did not know what treatment they are getting"
+  },
+  {
+    "med": "drug tolerability",
+    "simp": "how well a patient can deal with side effects from taking a drug"
+  },
+  {
+    "med": "dyspnea",
+    "simp": "difficulty breathing"
+  },
+  {
+    "med": "dyspnea",
+    "simp": "indicating difficulty breathing"
+  },
+  {
+    "med": "dyspnea",
+    "simp": "shortness of breath"
+  },
+  {
+    "med": "dyspnea score",
+    "simp": "indicating difficulty breathing"
+  },
+  {
+    "med": "early endovascular repair",
+    "simp": "(inside the aorta) repair"
+  },
+  {
+    "med": "early endovascular repair",
+    "simp": "in which the weak pats of the aorta wall are strengthened by placing a stent through small catheters"
+  },
+  {
+    "med": "early endovascular repair",
+    "simp": "inside the aorta using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "early endovascular repair",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent"
+  },
+  {
+    "med": "early endovascular repair",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "eczema",
+    "simp": "an allergic reaction"
+  },
+  {
+    "med": "eczema",
+    "simp": "skin irritation"
+  },
+  {
+    "med": "edema",
+    "simp": "fluid to build up in joint"
+  },
+  {
+    "med": "edema",
+    "simp": "swelling"
+  },
+  {
+    "med": "edema",
+    "simp": "swelling due to fluid build up"
+  },
+  {
+    "med": "eGFR",
+    "simp": "a test to determine if kidneys are working properly"
+  },
+  {
+    "med": "eGFR",
+    "simp": "a test used to check how well the kidneys are working"
+  },
+  {
+    "med": "electively",
+    "simp": "the patient and the doctor choose and decide when the surgery will happen"
+  },
+  {
+    "med": "ellipsoid zone",
+    "simp": "a layer of the retina seen with OCT imaging"
+  },
+  {
+    "med": "emergent situations",
+    "simp": "not schedule or planned and needs to happen right away"
+  },
+  {
+    "med": "end-stage renal disease",
+    "simp": "when a person's kidneys permanently no longer function"
+  },
+  {
+    "med": "endocrine",
+    "simp": "system responsible for hormone release"
+  },
+  {
+    "med": "endocrine",
+    "simp": "system that regulated the body through chemicals"
+  },
+  {
+    "med": "endocrinology",
+    "simp": "study of hormones"
+  },
+  {
+    "med": "endocrinology",
+    "simp": "study of hormones, chemicals that control the body"
+  },
+  {
+    "med": "endocrinology",
+    "simp": "the study of hormone-secreting glands in the human body"
+  },
+  {
+    "med": "endogenous biomarker",
+    "simp": "measurable biological signs of health status"
+  },
+  {
+    "med": "endovascular",
+    "simp": "in which the surgeon uses small cuts to insert catheters"
+  },
+  {
+    "med": "endovascular",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent"
+  },
+  {
+    "med": "endovascular",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "endovascular aneurysm repair",
+    "simp": "in which the aneurism is repaired through small cuts"
+  },
+  {
+    "med": "endovascular aneurysm repair",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent"
+  },
+  {
+    "med": "endovascular aneurysm repair",
+    "simp": "the aneurism is repaired through small cuts)"
+  },
+  {
+    "med": "endovascular aneurysm repair",
+    "simp": "using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "endovascular approach",
+    "simp": "in which the surgeon uses small cuts to insert catheters"
+  },
+  {
+    "med": "endovascular approach",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "Endovascular placement of an aortic stent graft",
+    "simp": "in which the weak pats of the wall are strengthened by placing a stent through small catheters"
+  },
+  {
+    "med": "Endovascular placement of an aortic stent graft",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent"
+  },
+  {
+    "med": "Endovascular placement of an aortic stent graft",
+    "simp": "strengthening the artery with a tube"
+  },
+  {
+    "med": "endovascular repair",
+    "simp": "(inside the aorta) repair"
+  },
+  {
+    "med": "endovascular repair",
+    "simp": "in which the weak pats of the aorta wall are strengthened by placing a stent through small catheters"
+  },
+  {
+    "med": "endovascular repair",
+    "simp": "inside the aorta using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "endovascular repair",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent"
+  },
+  {
+    "med": "endovascular repair",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "enemas",
+    "simp": "injections up the rectum"
+  },
+  {
+    "med": "enhanced extracellular matrix deposition",
+    "simp": "a network of proteins that help give tissues structure"
+  },
+  {
+    "med": "enhanced extracellular matrix deposition",
+    "simp": "buildup of tissue that surrounds cells"
+  },
+  {
+    "med": "epidemic",
+    "simp": "a widespread occurrence of an infectious disease in a community at a particular time"
+  },
+  {
+    "med": "epidemiological",
+    "simp": "the study of factors that determine the presence or absence of diseases and disorders"
+  },
+  {
+    "med": "epidemiological perspective",
+    "simp": "frequency and patterns in the population"
+  },
+  {
+    "med": "epiretinal membrane",
+    "simp": "a thin layer to form over the retina"
+  },
+  {
+    "med": "epiretinal membrane",
+    "simp": "inner retina"
+  },
+  {
+    "med": "epiretinal membrane",
+    "simp": "thin layer to form over the retina"
+  },
+  {
+    "med": "ERM",
+    "simp": "a thin layer to form over the retina"
+  },
+  {
+    "med": "ERM",
+    "simp": "inner retina"
+  },
+  {
+    "med": "ERM",
+    "simp": "thin layer to form over the retina"
+  },
+  {
+    "med": "erythema",
+    "simp": "redness"
+  },
+  {
+    "med": "ESRD",
+    "simp": "when a person's kidneys permanently no longer function"
+  },
+  {
+    "med": "estimated glomerular filtration rate",
+    "simp": "a test often done to determine if the kidneys are working properly"
+  },
+  {
+    "med": "estimated glomerular filtration rate",
+    "simp": "a test to determine if kidneys are working properly"
+  },
+  {
+    "med": "estimated glomerular filtration rate",
+    "simp": "a test used to check how well the kidneys are working"
+  },
+  {
+    "med": "estimated glomerular filtration rate",
+    "simp": "shows how well the kidneys are working"
+  },
+  {
+    "med": "EVAR",
+    "simp": "in which the aneurism is repaired through small cuts"
+  },
+  {
+    "med": "EVAR",
+    "simp": "in which the weak pats of the aorta wall are strengthened by placing a stent through small catheters"
+  },
+  {
+    "med": "EVAR",
+    "simp": "involves strengthening the artery with a tube"
+  },
+  {
+    "med": "EVAR",
+    "simp": "meant to seal the widened area of the aorta from the inside of the aneurysm, while leaving the wall of the aneurysm untouched"
+  },
+  {
+    "med": "EVAR",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent"
+  },
+  {
+    "med": "EVAR",
+    "simp": "performed inside the aorta using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "EVAR",
+    "simp": "the aneurism is repaired through small cuts)"
+  },
+  {
+    "med": "EVAR",
+    "simp": "using thin, long tubes called catheters to place a stent, or a device that opens an artery, surrounded with a fabric liner to strengthen the weak spots"
+  },
+  {
+    "med": "exacerbation",
+    "simp": "sudden worsening of the symptoms"
+  },
+  {
+    "med": "exacerbations",
+    "simp": "sudden worsening of the symptoms"
+  },
+  {
+    "med": "external limiting membrane (ELM) and ellipsoid zone (EZ)",
+    "simp": "inner eye zones, of photoreceptors (eye cells that convert light in the brain)"
+  },
+  {
+    "med": "external limiting membrane (ELM) and ellipsoid zone (EZ) of photoreceptors",
+    "simp": "inner eye zones, of photoreceptors (eye cells that convert light in the brain)"
+  },
+  {
+    "med": "extracellular matrix",
+    "simp": "a network of proteins that help give tissues structure"
+  },
+  {
+    "med": "extracellular matrix accumulation (ECM)",
+    "simp": "a network of proteins that help give tissues structure"
+  },
+  {
+    "med": "extracellular matrix deposition",
+    "simp": "a network of proteins that help give tissues structure"
+  },
+  {
+    "med": "extracellular matrix deposition",
+    "simp": "buildup of tissue that surrounds cells"
+  },
+  {
+    "med": "EZ",
+    "simp": "a layer of the retina seen with OCT imaging"
+  },
+  {
+    "med": "EZ-retinal pigment epithelium",
+    "simp": "a particular layer of the retina"
+  },
+  {
+    "med": "EZ-RPE",
+    "simp": "a particular layer of the retina"
+  },
+  {
+    "med": "face ringworm",
+    "simp": "fungal infection of the face"
+  },
+  {
+    "med": "face ringworm",
+    "simp": "ringworm of the face"
+  },
+  {
+    "med": "faciei",
+    "simp": "fungal infection of the face"
+  },
+  {
+    "med": "faciei",
+    "simp": "on the face"
+  },
+  {
+    "med": "faciei",
+    "simp": "ringworm of the face"
+  },
+  {
+    "med": "Fat-Free Mass Index",
+    "simp": "similar to BMI"
+  },
+  {
+    "med": "fecal bile acids",
+    "simp": "byproducts of fat digestion"
+  },
+  {
+    "med": "fecal bile acids",
+    "simp": "chemicals that are produced by the body and may cause diarrhea"
+  },
+  {
+    "med": "fellow eye",
+    "simp": "(untreated) eye"
+  },
+  {
+    "med": "fellow eye",
+    "simp": "untreated"
+  },
+  {
+    "med": "fellow eyes",
+    "simp": "healthy eyes of same person"
+  },
+  {
+    "med": "Fermentation",
+    "simp": "was turned to alcohol by bacteria"
+  },
+  {
+    "med": "FEV1",
+    "simp": "volume of air breathed out"
+  },
+  {
+    "med": "fibroblast",
+    "simp": "a type of cell involved in tissue repair"
+  },
+  {
+    "med": "fibroblast",
+    "simp": "cells that create tissue"
+  },
+  {
+    "med": "fibrosis",
+    "simp": "development of fibrous connective tissues"
+  },
+  {
+    "med": "fibrosis",
+    "simp": "scarring"
+  },
+  {
+    "med": "fibrosis 4 score (FIB-4)",
+    "simp": "measured the amount of scarring of the liver"
+  },
+  {
+    "med": "flexion",
+    "simp": "range of motion"
+  },
+  {
+    "med": "followed-up",
+    "simp": "monitored"
+  },
+  {
+    "med": "foot posture",
+    "simp": "determines if the weight is on the inside or outside of the foot"
+  },
+  {
+    "med": "foot posture",
+    "simp": "shows how the weight is distributed"
+  },
+  {
+    "med": "foot posture",
+    "simp": "which determines if the weight is on the inside or outside of the foot"
+  },
+  {
+    "med": "foot posture",
+    "simp": "which shows how the weight is distributed"
+  },
+  {
+    "med": "foot posture index",
+    "simp": "determines if the weight is on the inside or outside of the foot"
+  },
+  {
+    "med": "foot posture index",
+    "simp": "shows how the weight is distributed"
+  },
+  {
+    "med": "foot posture index",
+    "simp": "which determines if the weight is on the inside or outside of the foot"
+  },
+  {
+    "med": "foot posture index",
+    "simp": "which shows how the weight is distributed"
+  },
+  {
+    "med": "forced vital capacity",
+    "simp": "FVC -- the maximum amount of air forcibly exhaled after fully inhaling"
+  },
+  {
+    "med": "forced vital capacity",
+    "simp": "the amount of air that can be exhaled from your lungs after taking a deep breath"
+  },
+  {
+    "med": "forced vital capacity",
+    "simp": "the maximum amount of air forcibly exhaled after fully inhaling"
+  },
+  {
+    "med": "foveal bulge",
+    "simp": "cuplike depression in the eye"
+  },
+  {
+    "med": "foveal regeneration",
+    "simp": "(a part of the retina) regeneration"
+  },
+  {
+    "med": "foveal regeneration",
+    "simp": "healing of the center of the field of vision"
+  },
+  {
+    "med": "FPI",
+    "simp": "determines if the weight is on the inside or outside of the foot"
+  },
+  {
+    "med": "FPI",
+    "simp": "shows how the weight is distributed"
+  },
+  {
+    "med": "FPI",
+    "simp": "which determines if the weight is on the inside or outside of the foot"
+  },
+  {
+    "med": "FPI",
+    "simp": "which shows how the weight is distributed"
+  },
+  {
+    "med": "FPI range of 0-5",
+    "simp": "normal weight distribution"
+  },
+  {
+    "med": "FPI range of 6-11",
+    "simp": "weight on the inside"
+  },
+  {
+    "med": "Fulvicin",
+    "simp": "type of antifungal pill"
+  },
+  {
+    "med": "functional biomarker",
+    "simp": "biological sign of irregular health"
+  },
+  {
+    "med": "FVC",
+    "simp": "forced vital capacity is the maximum amount of air forcibly exhaled after fully inhaling"
+  },
+  {
+    "med": "FVC",
+    "simp": "FVC -- the maximum amount of air forcibly exhaled after fully inhaling"
+  },
+  {
+    "med": "FVC",
+    "simp": "the amount of air that can be exhaled from your lungs after taking a deep breath"
+  },
+  {
+    "med": "FVC",
+    "simp": "the maximum amount of air forcibly exhaled after fully inhaling"
+  },
+  {
+    "med": "G1 phase",
+    "simp": "in between when they divide"
+  },
+  {
+    "med": "gas tamponade",
+    "simp": "injecting gas under the tear to keep fluid from being trapped underneath it"
+  },
+  {
+    "med": "gastrointestinal",
+    "simp": "digestive"
+  },
+  {
+    "med": "gastrointestinal",
+    "simp": "the stomach and intestines"
+  },
+  {
+    "med": "GFR",
+    "simp": "a test often done to determine if the kidneys are working properly"
+  },
+  {
+    "med": "GFR",
+    "simp": "a test that checks how the kidneys are working"
+  },
+  {
+    "med": "GFR",
+    "simp": "a test that is done to determine if the kidneys are working properly"
+  },
+  {
+    "med": "GFR",
+    "simp": "a test to determine if a kidney is removing waste from your blood"
+  },
+  {
+    "med": "GFR",
+    "simp": "Glomerular filtration rate, a test that checks how the kidneys are working"
+  },
+  {
+    "med": "GFR",
+    "simp": "rate that the kidney filters the blood"
+  },
+  {
+    "med": "GFR",
+    "simp": "shows how well the kidneys are working"
+  },
+  {
+    "med": "GFR",
+    "simp": "the rate that the kidney filters the blood"
+  },
+  {
+    "med": "Gleason scores",
+    "simp": "a grading system to help treatment"
+  },
+  {
+    "med": "Gleason scores",
+    "simp": "which show how likely the cancer is to advance and spread"
+  },
+  {
+    "med": "glomerular",
+    "simp": "damage to kidney filtration"
+  },
+  {
+    "med": "glomerular filtration rate",
+    "simp": "a test often done to determine if the kidneys are working properly"
+  },
+  {
+    "med": "Glomerular filtration rate",
+    "simp": "a test to determine if a kidney is removing waste from your blood"
+  },
+  {
+    "med": "glomerular filtration rate",
+    "simp": "a test to determine if kidneys are working properly"
+  },
+  {
+    "med": "glomerular filtration rate",
+    "simp": "a test used to check how well the kidneys are working"
+  },
+  {
+    "med": "Glomerular filtration rate",
+    "simp": "rate that the kidney filters the blood"
+  },
+  {
+    "med": "glomerular filtration rate",
+    "simp": "shows how well the kidneys are working"
+  },
+  {
+    "med": "Glomerular filtration rate",
+    "simp": "the rate that the kidney filters the blood"
+  },
+  {
+    "med": "GLP-1",
+    "simp": "a molecule in the gut released after eating"
+  },
+  {
+    "med": "GLP-1",
+    "simp": "a protein known to improve insulin sensitivity"
+  },
+  {
+    "med": "GLP-1",
+    "simp": "balances glucose in the blood and helps feeling full after eating"
+  },
+  {
+    "med": "GLP-1",
+    "simp": "GLP-1"
+  },
+  {
+    "med": "glucagon-like peptide 1",
+    "simp": "a molecule in the gut released after eating"
+  },
+  {
+    "med": "glucagon-like peptide 1",
+    "simp": "a protein known to improve insulin sensitivity"
+  },
+  {
+    "med": "glucagon-like peptide 1",
+    "simp": "balances glucose in the blood and helps feeling full after eating"
+  },
+  {
+    "med": "glucagon-like peptide 1",
+    "simp": "GLP-1"
+  },
+  {
+    "med": "Griseofulvin",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "Griseofulvin",
+    "simp": "antifungal drug"
+  },
+  {
+    "med": "griseofulvin",
+    "simp": "antifungal pill"
+  },
+  {
+    "med": "griseofulvin",
+    "simp": "type of antifungal pill"
+  },
+  {
+    "med": "guarding",
+    "simp": "when an animal will favor the uninjured limb over the injured limb"
+  },
+  {
+    "med": "gut colonocytes",
+    "simp": "cells within the colon"
+  },
+  {
+    "med": "gut microbiome dysbiosis",
+    "simp": "an imbalance in the gut microbiome"
+  },
+  {
+    "med": "gut microbiota",
+    "simp": "small organisms within the body"
+  },
+  {
+    "med": "gut microbiota",
+    "simp": "small, beneficial organisms that live in the gut"
+  },
+  {
+    "med": "gut microbiota",
+    "simp": "small, helpful organisms that live within the body"
+  },
+  {
+    "med": "hepatic steatosis",
+    "simp": "fatty liver"
+  },
+  {
+    "med": "hepatic steatosis",
+    "simp": "fatty liver disase"
+  },
+  {
+    "med": "hepatic steatosis",
+    "simp": "fatty liver disease"
+  },
+  {
+    "med": "hepatoprotection",
+    "simp": "liver protection"
+  },
+  {
+    "med": "highest neutralizing antibody titres",
+    "simp": "(the lowest level of antibodies required to create an immune reaction"
+  },
+  {
+    "med": "HKS",
+    "simp": "high-nitrogen form"
+  },
+  {
+    "med": "HKS",
+    "simp": "media without anything added to it"
+  },
+  {
+    "med": "HS",
+    "simp": "fatty liver"
+  },
+  {
+    "med": "HS",
+    "simp": "fatty liver disase"
+  },
+  {
+    "med": "HS",
+    "simp": "fatty liver disease"
+  },
+  {
+    "med": "human gut microbiota",
+    "simp": "small organisms within the body"
+  },
+  {
+    "med": "human gut microbiota",
+    "simp": "small, beneficial organisms that live in the gut"
+  },
+  {
+    "med": "human gut microbiota",
+    "simp": "small, helpful organisms that live within the body"
+  },
+  {
+    "med": "hyperglycaemic",
+    "simp": "high glucose levels"
+  },
+  {
+    "med": "hyperglycemia",
+    "simp": "too much sugar in the blood"
+  },
+  {
+    "med": "hyperketonemia",
+    "simp": "having high levels of ketones in the blood"
+  },
+  {
+    "med": "hyperketonemia",
+    "simp": "too much ketones in the blood"
+  },
+  {
+    "med": "hypersensitivity reaction",
+    "simp": "exaggerated immune responses occurring in response to a germ or allergen"
+  },
+  {
+    "med": "hypertension",
+    "simp": "high blood pressure"
+  },
+  {
+    "med": "hyperthermia",
+    "simp": "overheating"
+  },
+  {
+    "med": "Hyperuricemia",
+    "simp": "the increase in uric acid in the blood"
+  },
+  {
+    "med": "Hyperuricemia",
+    "simp": "too much uric acid in the blood"
+  },
+  {
+    "med": "hypotension",
+    "simp": "low blood pressure"
+  },
+  {
+    "med": "IBD",
+    "simp": "a chronic disease that weakens patients and has limited treatments"
+  },
+  {
+    "med": "IBD",
+    "simp": "a crippling long-term disease with few treatments"
+  },
+  {
+    "med": "IBD",
+    "simp": "a debilitating long-term disease with few treatment options"
+  },
+  {
+    "med": "ICA",
+    "simp": "a major supplier of blood to the brain and eyes"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "a chronic lung disease involving scarring of the lungs"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "a chronic lung disease that involves scarring in the lungs"
+  },
+  {
+    "med": "Idiopathic Pulmonary Fibrosis",
+    "simp": "a chronic lung disease that involves worsening lung scarring"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a chronic, progressive and irreversible lung disease that involves scarring in the lungs"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a condition that has no cure"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a continuing and eventually fatal lung disease that causes development of fiber in the lung tissues"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a continuous and exhausting disease that scars the lung"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a crippling disease that slowly scars the lungs"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "a disease where the lungs are slowly scarred until they don't work"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a disease where the lungs slowly scar"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "a disease where the lungs slowly scar until they don't work"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a long-lasting, ongoing and irreversible lung disease"
+  },
+  {
+    "med": "Idiopathic Pulmonary Fibrosis",
+    "simp": "a long-term disease where the lungs have scarring that continues to get worse"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a long-term lung disease"
+  },
+  {
+    "med": "Idiopathic Pulmonary Fibrosis",
+    "simp": "a long-term, worsening lung disease identified by worsening lung scarring"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a progressive and damaging disease that causes scarring in the lungs"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "a progressive, and ultimately fatal, chronic lung disease described by an excess of the depositing of enhanced extracellular matrix proteins"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "is a disease where the lungs slowly scar until they don't work"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "is long-term disease of the space between air sacs in the lungs"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "is worsening scarring of the lungs for unknown reasons"
+  },
+  {
+    "med": "Idiopathic pulmonary fibrosis",
+    "simp": "long-term disease of the space between air sacs in the lungs"
+  },
+  {
+    "med": "idiopathic pulmonary fibrosis",
+    "simp": "worsening scarring of the lungs for unknown reasons"
+  },
+  {
+    "med": "IgG and IgM antibody testing",
+    "simp": "which show past infections"
+  },
+  {
+    "med": "IL-10",
+    "simp": "involved in immune response to harmful agents"
+  },
+  {
+    "med": "ILM",
+    "simp": "a thin layer on top of the retina that is sometimes removed during surgery"
+  },
+  {
+    "med": "ILM",
+    "simp": "inner eye retinal barrier"
+  },
+  {
+    "med": "immune",
+    "simp": "system that protects the body against infections"
+  },
+  {
+    "med": "immune systems",
+    "simp": "system that protects the body against infections"
+  },
+  {
+    "med": "immunodeficiency",
+    "simp": "(impaired immune systems"
+  },
+  {
+    "med": "immunodeficiency",
+    "simp": "impaired immune systems"
+  },
+  {
+    "med": "immunodeficiency",
+    "simp": "weak protection against the infection"
+  },
+  {
+    "med": "immunodeficient",
+    "simp": "reduced immune system ability"
+  },
+  {
+    "med": "immunomodulation",
+    "simp": "alteration of the immune system"
+  },
+  {
+    "med": "improved insulin sensitivity",
+    "simp": "being further from diabetes"
+  },
+  {
+    "med": "incidence",
+    "simp": "occurrence, rate, and frequency"
+  },
+  {
+    "med": "infectivity",
+    "simp": "the ability to produce or transfer an infection"
+  },
+  {
+    "med": "inflammaging",
+    "simp": "body producing chemicals that defend against infection"
+  },
+  {
+    "med": "inflammation",
+    "simp": "body producing chemicals that defend against infection"
+  },
+  {
+    "med": "inflammation",
+    "simp": "inflammaging"
+  },
+  {
+    "med": "Inflammation",
+    "simp": "the immune system is trying to help"
+  },
+  {
+    "med": "Inflammatory bowel disease",
+    "simp": "a chronic disease that weakens patients and has limited treatments"
+  },
+  {
+    "med": "Inflammatory bowel disease",
+    "simp": "a crippling long-term disease with few treatments"
+  },
+  {
+    "med": "Inflammatory bowel disease",
+    "simp": "a debilitating long-term disease with few treatment options"
+  },
+  {
+    "med": "inflammatory immune activity",
+    "simp": "inflammation as body's reaction to harm"
+  },
+  {
+    "med": "infrarenal",
+    "simp": "below the kidney arteries"
+  },
+  {
+    "med": "infrarenal",
+    "simp": "in the part of abdominal aorta below the kidney arteries"
+  },
+  {
+    "med": "infrarenal",
+    "simp": "in the part of the abdominal aorta far from the kidney arteries"
+  },
+  {
+    "med": "internal limiting membrane",
+    "simp": "a thin layer on top of the retina that is sometimes removed during surgery"
+  },
+  {
+    "med": "internal limiting membrane",
+    "simp": "inner eye retinal barrier"
+  },
+  {
+    "med": "interstitial",
+    "simp": "connective tissue"
+  },
+  {
+    "med": "interstitial pneumonia",
+    "simp": "infection of air sacs in on or both lungs"
+  },
+  {
+    "med": "interstitial pneumonia",
+    "simp": "inflammation of the tissue of the lungs"
+  },
+  {
+    "med": "interstitial pneumonia",
+    "simp": "the infection of air sacs in on or both lungs"
+  },
+  {
+    "med": "interstitium",
+    "simp": "the space between the linings of air sacs in the lung and the bloodstream"
+  },
+  {
+    "med": "IPF",
+    "simp": "a chronic lung disease involving scarring of the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "a chronic lung disease that involves scarring in the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "a chronic, progressive and irreversible lung disease that involves scarring in the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "a condition that has no cure"
+  },
+  {
+    "med": "IPF",
+    "simp": "a continuing and eventually fatal lung disease that causes development of fiber in the lung tissues"
+  },
+  {
+    "med": "IPF",
+    "simp": "a continuous and exhausting disease that scars the lung"
+  },
+  {
+    "med": "IPF",
+    "simp": "a crippling disease that slowly scars the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "a disease where the lungs slowly scar"
+  },
+  {
+    "med": "IPF",
+    "simp": "a disease where the lungs slowly scar until they don't work"
+  },
+  {
+    "med": "IPF",
+    "simp": "a long-lasting, ongoing and irreversible lung disease"
+  },
+  {
+    "med": "IPF",
+    "simp": "a long-term lung disease"
+  },
+  {
+    "med": "IPF",
+    "simp": "a progressive and damaging disease that causes scarring in the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "a progressive, and ultimately fatal, chronic lung disease described by an excess of the depositing of enhanced extracellular matrix proteins"
+  },
+  {
+    "med": "IPF",
+    "simp": "is a disease where the lungs slowly scar until they don't work"
+  },
+  {
+    "med": "IPF",
+    "simp": "is long-term disease of the space between air sacs in the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "is worsening scarring of the lungs for unknown reasons"
+  },
+  {
+    "med": "IPF",
+    "simp": "long-term disease of the space between air sacs in the lungs"
+  },
+  {
+    "med": "IPF",
+    "simp": "worsening scarring of the lungs for unknown reasons"
+  },
+  {
+    "med": "isocaloric",
+    "simp": "same calorie value"
+  },
+  {
+    "med": "isocaloric studies",
+    "simp": "same calorie value"
+  },
+  {
+    "med": "Itraconazole",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "itraconazole",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "jock itch",
+    "simp": "jock itch"
+  },
+  {
+    "med": "kerion",
+    "simp": "swollen pus-filled sore that sometimes oozes"
+  },
+  {
+    "med": "ketoacidosis",
+    "simp": "a complication of diabetes that develops when the body uses fats as fuel, which causes a buildup of chemicals called ketones"
+  },
+  {
+    "med": "ketoacidosis",
+    "simp": "a complication that develops when the body uses fats as fuel, which causes a buildup of chemicals called ketones"
+  },
+  {
+    "med": "ketoacidosis",
+    "simp": "dangerous levels of ketones in the body"
+  },
+  {
+    "med": "ketoacidosis",
+    "simp": "when the body breaks down fat too quickly"
+  },
+  {
+    "med": "ketoacidosis",
+    "simp": "when the body starts breaking down fat too quickly"
+  },
+  {
+    "med": "ketoconazole",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "Ketone",
+    "simp": "a type of energy molecule"
+  },
+  {
+    "med": "ketone",
+    "simp": "a type of energy molecule"
+  },
+  {
+    "med": "ketone",
+    "simp": "chemicals"
+  },
+  {
+    "med": "ketone",
+    "simp": "energy molecule"
+  },
+  {
+    "med": "ketone bodies",
+    "simp": "chemicals that are highly present in cases of DKA"
+  },
+  {
+    "med": "ketone bodies",
+    "simp": "energy molecule"
+  },
+  {
+    "med": "ketone bodies",
+    "simp": "energy molecules that can be used to detect ketoacidosis"
+  },
+  {
+    "med": "ketones",
+    "simp": "chemicals that cause a dangerous complication of diabetes called diabetic ketoacidosis"
+  },
+  {
+    "med": "ketones",
+    "simp": "energy molecule"
+  },
+  {
+    "med": "ketosis",
+    "simp": "high ketone levels"
+  },
+  {
+    "med": "ketosis",
+    "simp": "when there are too many ketones in the blood or urine"
+  },
+  {
+    "med": "lactate",
+    "simp": "a molecule produced when the body doesn't have enough oxygen"
+  },
+  {
+    "med": "laminin",
+    "simp": "an important protein for the layer that supports and controls the cells lining the colon"
+  },
+  {
+    "med": "LCV",
+    "simp": "the loss of detail vision, resulting in having only side vision remaining"
+  },
+  {
+    "med": "length of viral shedding",
+    "simp": "spreading the virus"
+  },
+  {
+    "med": "less invasive treatment",
+    "simp": "treatment that minimizes the insertion of instruments into the body"
+  },
+  {
+    "med": "less invasive treatment strategy",
+    "simp": "treatment that minimizes the insertion of instruments into the body"
+  },
+  {
+    "med": "liver enzymes",
+    "simp": "which measure damage to the liver"
+  },
+  {
+    "med": "lopinavir/ritonavir",
+    "simp": "antiviral medications"
+  },
+  {
+    "med": "lopinavir/ritonavir",
+    "simp": "drugs created to treat HIV"
+  },
+  {
+    "med": "loss of central vision",
+    "simp": "the loss of detail vision, resulting in having only side vision remaining"
+  },
+  {
+    "med": "low glycemic index",
+    "simp": "do not change the blood sugars much"
+  },
+  {
+    "med": "low glycemic index",
+    "simp": "low affect on blood sugar"
+  },
+  {
+    "med": "low-glycemic index diets",
+    "simp": "diets that do not increase blood sugar too much"
+  },
+  {
+    "med": "low-glycemic index diets",
+    "simp": "eating habits that affect blood sugar levels"
+  },
+  {
+    "med": "macrophage infiltration",
+    "simp": "(immune system cells) infiltration"
+  },
+  {
+    "med": "macrophage infiltration",
+    "simp": "immune system cells"
+  },
+  {
+    "med": "Macula",
+    "simp": "a central part of the retina"
+  },
+  {
+    "med": "Macula",
+    "simp": "inner eye for keen vision"
+  },
+  {
+    "med": "macula",
+    "simp": "part of the eye that processes what you see right in front of you"
+  },
+  {
+    "med": "macula",
+    "simp": "the central part of retina"
+  },
+  {
+    "med": "macula",
+    "simp": "the part of the eye that processes what you see right in front of you"
+  },
+  {
+    "med": "macula-involving rhegmatogenous retinal detachment",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "macula-involving rhegmatogenous retinal detachment",
+    "simp": "If a tear in the retina causes the macula to come apart from the wall of the eye"
+  },
+  {
+    "med": "macula-involving rhegmatogenous retinal detachment",
+    "simp": "tear in the retina causes the macula to come apart from the wall of the eye"
+  },
+  {
+    "med": "macula-involving rhegmatogenous retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "macula-off retinal detachment",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "macula-off retinal detachment",
+    "simp": "damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "macula-off retinal detachment",
+    "simp": "If the macula comes apart from the wall of the eye"
+  },
+  {
+    "med": "macula-off retinal detachment",
+    "simp": "macula comes apart from the wall of the eye"
+  },
+  {
+    "med": "macula-off retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "macula-off retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position."
+  },
+  {
+    "med": "macula-off rhegmatogenous retinal detachment",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "macula-off rhegmatogenous retinal detachment",
+    "simp": "damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "macula-off rhegmatogenous retinal detachment",
+    "simp": "If the macula comes apart from the wall of the eye"
+  },
+  {
+    "med": "macula-off rhegmatogenous retinal detachment",
+    "simp": "macula comes apart from the wall of the eye"
+  },
+  {
+    "med": "macula-off rhegmatogenous retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "macula-off rhegmatogenous retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position."
+  },
+  {
+    "med": "macula-off RRD",
+    "simp": "detachments caused by tears in the retina and where fluid had gotten under the macula"
+  },
+  {
+    "med": "macula-off RRD",
+    "simp": "eye fluid has entered the incorrect area"
+  },
+  {
+    "med": "macular",
+    "simp": "the central part of the retina"
+  },
+  {
+    "med": "macular degeneration",
+    "simp": "a breakdown of the macula"
+  },
+  {
+    "med": "macular degeneration",
+    "simp": "a breakdown of the macula, the central part of the retina"
+  },
+  {
+    "med": "macular degeneration",
+    "simp": "a condition that destroys sharp vision"
+  },
+  {
+    "med": "Macular degeneration",
+    "simp": "a disease that blurs vision"
+  },
+  {
+    "med": "macular degeneration",
+    "simp": "vision loss disease"
+  },
+  {
+    "med": "macular detachment",
+    "simp": "when eye tissue pulls away from blood vessels"
+  },
+  {
+    "med": "macular detachment",
+    "simp": "whether the central part of the retina was detached"
+  },
+  {
+    "med": "macular microvascular",
+    "simp": "inner eye tissue"
+  },
+  {
+    "med": "macular microvascular changes",
+    "simp": "macular microvascular (inner eye tissue) changes"
+  },
+  {
+    "med": "manuum",
+    "simp": "hands"
+  },
+  {
+    "med": "mass spectroscopy",
+    "simp": "a tool that helps identify the type of fungus that is present in a sample"
+  },
+  {
+    "med": "median",
+    "simp": "number in the middle of a set of numbers"
+  },
+  {
+    "med": "membrane peel",
+    "simp": "scar tissue removal"
+  },
+  {
+    "med": "Meta-analysis",
+    "simp": "(further analysis performed on data taken from multiple studies"
+  },
+  {
+    "med": "Meta-analysis",
+    "simp": "further analysis performed on data taken from multiple studies"
+  },
+  {
+    "med": "metabolic syndrome",
+    "simp": "a cluster of conditions that occur together and increase risk of heart disease"
+  },
+  {
+    "med": "metabolic syndrome",
+    "simp": "is a cluster of conditions that occur together and increase risk of heart disease"
+  },
+  {
+    "med": "methotrexate",
+    "simp": "a well-known drug treatment for RA"
+  },
+  {
+    "med": "methotrexate",
+    "simp": "a well-studied drug for RA"
+  },
+  {
+    "med": "microbiology",
+    "simp": "study of bacteria and viruses"
+  },
+  {
+    "med": "microbiome",
+    "simp": "small organisms that live within the gut"
+  },
+  {
+    "med": "microbiome dysbiosis",
+    "simp": "an imbalance in the gut microbiome"
+  },
+  {
+    "med": "microbiota",
+    "simp": "small organisms within the body"
+  },
+  {
+    "med": "microbiota",
+    "simp": "small, helpful organisms that live within the body"
+  },
+  {
+    "med": "middle ear",
+    "simp": "where bones transfer sound to where it is sensed"
+  },
+  {
+    "med": "middle ear",
+    "simp": "which provides sound to inner ear and helps with air pressure"
+  },
+  {
+    "med": "minimally invasive",
+    "simp": "only slightly breaking the skin"
+  },
+  {
+    "med": "mIOL",
+    "simp": "artificial lenses that correct both near and far vision at the same time"
+  },
+  {
+    "med": "miRD",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "miRD",
+    "simp": "If a tear in the retina causes the macula to come apart from the wall of the eye"
+  },
+  {
+    "med": "miRD",
+    "simp": "tear in the retina causes the macula to come apart from the wall of the eye"
+  },
+  {
+    "med": "miRD",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "moccasin-type tinea pedis",
+    "simp": "a type of athlete's foot affecting the bottom and sides of the feet"
+  },
+  {
+    "med": "monofocal eyes",
+    "simp": "(normal) eyes"
+  },
+  {
+    "med": "mortality",
+    "simp": "deaths"
+  },
+  {
+    "med": "mortality rate",
+    "simp": "deaths"
+  },
+  {
+    "med": "MP",
+    "simp": "scar tissue removal"
+  },
+  {
+    "med": "multifocal intraocular lens",
+    "simp": "artificial lenses that correct both near and far vision at the same time"
+  },
+  {
+    "med": "mycelial C. militaris",
+    "simp": "a medicinal fungus"
+  },
+  {
+    "med": "mycological cure",
+    "simp": "the patient tested negative on a swab culture and no organisms were seen under a microscope"
+  },
+  {
+    "med": "mycological cure rate",
+    "simp": "patient tested negative on a swab culture and no organisms were seen under a microscope"
+  },
+  {
+    "med": "mycological cure rate",
+    "simp": "the patient tested negative on a swab culture and no organisms were seen under a microscope"
+  },
+  {
+    "med": "mycological cure rates",
+    "simp": "patient tested negative on a swab culture and no organisms were seen under a microscope"
+  },
+  {
+    "med": "mycological cure rates",
+    "simp": "the patient tested negative on a swab culture and no organisms were seen under a microscope"
+  },
+  {
+    "med": "negative likelihood ratio",
+    "simp": "ruling out ketoacidosis"
+  },
+  {
+    "med": "nephrotoxic",
+    "simp": "damaging to the kidneys"
+  },
+  {
+    "med": "neutralizing antibody titres",
+    "simp": "the lowest level of antibodies required to create an immune reaction"
+  },
+  {
+    "med": "new pulmonary infiltrates",
+    "simp": "substances denser than air, such as pus, blood, or protein, that form and linger in the lungs"
+  },
+  {
+    "med": "nintedanib or pirfenidone",
+    "simp": "drugs that slow down the scarring of lung tissues"
+  },
+  {
+    "med": "noninvasive",
+    "simp": "minimizing the insertion of instruments into the body"
+  },
+  {
+    "med": "noninvasive fibrosis scores",
+    "simp": "level of liver scarring"
+  },
+  {
+    "med": "noninvasive fibrosis scores",
+    "simp": "measured the amount of scarring of the liver"
+  },
+  {
+    "med": "OA",
+    "simp": "a degenerative, or deteriorating, joint disease"
+  },
+  {
+    "med": "OA",
+    "simp": "the wearing down of cushioning in the joints"
+  },
+  {
+    "med": "OCT",
+    "simp": "a type of cross-sectional imaging of the retina"
+  },
+  {
+    "med": "OCT",
+    "simp": "an imaging technique"
+  },
+  {
+    "med": "onychomycosis",
+    "simp": "nail fungus"
+  },
+  {
+    "med": "onychomycosis",
+    "simp": "onychomycosis -- infection of nail"
+  },
+  {
+    "med": "open repair",
+    "simp": "a major surgery during which the widened area of the aorta is replaced with a graft"
+  },
+  {
+    "med": "open repair",
+    "simp": "chest was opened and the AAA repaired directly"
+  },
+  {
+    "med": "open repair",
+    "simp": "major surgery"
+  },
+  {
+    "med": "open repair",
+    "simp": "surgery"
+  },
+  {
+    "med": "open repair",
+    "simp": "the chest was opened and the AAA repaired directly"
+  },
+  {
+    "med": "open repair",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open repair",
+    "simp": "traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgery",
+    "simp": "cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgery",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "a major surgery during which the widened area of the aorta is replaced with a graft"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "chest was opened and the AAA repaired directly"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "major surgery"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "surgery"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "the chest was opened and the AAA repaired directly"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "Open surgery repair",
+    "simp": "traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "a major surgery during which the widened area of the aorta is replaced with a graft"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "a major surgery requiring the removal of the widened area of the AAA and placement of a stitched graft"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "chest-opening surgery"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "chest-opening surgery"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "in which the surgeon opens the abdomen"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "in which the surgeon opens the abdomen"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "in which the surgeon opens the belly to fix the aneurism"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "in which the surgeon opens the belly to fix the aneurism"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "involves cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "It involves cutting out part of the swollen area and putting in an artificial tube"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "Open surgical repair",
+    "simp": "traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgical repair",
+    "simp": "traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "a major surgery during which the widened area of the aorta is replaced with a graft"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "a major surgery requiring the removal of the widened area of the AAA and placement of a stitched graft"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "chest-opening surgery"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "in which the surgeon opens the abdomen"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "in which the surgeon opens the belly to fix the aneurism"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "involves cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "It involves cutting out part of the swollen area and putting in an artificial tube"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "open surgical repair of AAA",
+    "simp": "traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "optical coherence tomography",
+    "simp": "an imaging technique"
+  },
+  {
+    "med": "optical coherence tomography (OCT)",
+    "simp": "an imaging technique"
+  },
+  {
+    "med": "oral",
+    "simp": "by mouth"
+  },
+  {
+    "med": "oral antifungals",
+    "simp": "(by mouth) antifungals"
+  },
+  {
+    "med": "Oral terbinafine",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "Oral terbinafine",
+    "simp": "an anti-fungal drug used for ringworm, jock itch, athlete's foot, and toenail fungus"
+  },
+  {
+    "med": "Oral terbinafine",
+    "simp": "anti-fungal drug used for ringworm, jock itch, athlete's foot, and toenail fungus"
+  },
+  {
+    "med": "Oral terbinafine",
+    "simp": "antifungal pill"
+  },
+  {
+    "med": "Oral terbinafine",
+    "simp": "first-line treatment for tinea capitis and onychomycosis"
+  },
+  {
+    "med": "orally",
+    "simp": "by mouth"
+  },
+  {
+    "med": "oseltamivir",
+    "simp": "antiviral medication"
+  },
+  {
+    "med": "OSR",
+    "simp": "a major surgery during which the widened area of the aorta is replaced with a graft"
+  },
+  {
+    "med": "OSR",
+    "simp": "a major surgery requiring the removal of the widened area of the AAA and placement of a stitched graft"
+  },
+  {
+    "med": "OSR",
+    "simp": "cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "OSR",
+    "simp": "in which the surgeon opens the abdomen"
+  },
+  {
+    "med": "OSR",
+    "simp": "involves cutting open the chest to fix the artery directly"
+  },
+  {
+    "med": "OSR",
+    "simp": "It involves cutting out part of the swollen area and putting in an artificial tube"
+  },
+  {
+    "med": "OSR",
+    "simp": "the traditional type of surgery in which the cutting of skin and tissues is completed so the surgeon has a full view of the structures or organs"
+  },
+  {
+    "med": "Osteoarthritis",
+    "simp": "a degenerative (causing deterioration) joint disease that affects mostly the weight-bearing joints in the knees and hips"
+  },
+  {
+    "med": "Osteoarthritis",
+    "simp": "a degenerative, or deteriorating, joint disease"
+  },
+  {
+    "med": "osteoarthritis",
+    "simp": "a degenerative, or deteriorating, joint disease"
+  },
+  {
+    "med": "Osteoarthritis",
+    "simp": "a disease in where your joints slowly degrade"
+  },
+  {
+    "med": "osteoarthritis",
+    "simp": "the wearing down of cushioning in the joints"
+  },
+  {
+    "med": "osteoarthritis outcome score",
+    "simp": "a degenerative, or deteriorating, joint disease"
+  },
+  {
+    "med": "osteoarthritis outcome score",
+    "simp": "the wearing down of cushioning in the joints"
+  },
+  {
+    "med": "pathogen",
+    "simp": "germ causing the infection"
+  },
+  {
+    "med": "pathology",
+    "simp": "study of the causes and course of disease"
+  },
+  {
+    "med": "pathophysiology",
+    "simp": "the disordered physical processes associated with disease"
+  },
+  {
+    "med": "PCR",
+    "simp": "a test used to detect genetic material from a specific organism"
+  },
+  {
+    "med": "pedis",
+    "simp": "athlete's foot"
+  },
+  {
+    "med": "perfluorocarbon liquids",
+    "simp": "a special, gas-carrying liquid"
+  },
+  {
+    "med": "perfluorocarbon liquids",
+    "simp": "special, gas-carrying liquid called perfluorocarbon was injected"
+  },
+  {
+    "med": "peripheral B-cell",
+    "simp": "type of white blood cells that make antibody"
+  },
+  {
+    "med": "peripheral B-cell levels",
+    "simp": "type of white blood cells that make antibody"
+  },
+  {
+    "med": "peripheral embolization",
+    "simp": "(blocking) of blood vessels"
+  },
+  {
+    "med": "peripheral embolization",
+    "simp": "where blood vessels distant from the aneurysm become blocked"
+  },
+  {
+    "med": "PFS",
+    "simp": "a measurement of how long a patient lives with a disease without the disease getting worse"
+  },
+  {
+    "med": "PFS",
+    "simp": "PFS, time that a patient lives with the disease and it doesn't get worse"
+  },
+  {
+    "med": "PFS",
+    "simp": "time that a patient lives with the disease and it doesn't get worse"
+  },
+  {
+    "med": "photoreceptor layers",
+    "simp": "eye cells that convert light in the brain"
+  },
+  {
+    "med": "photoreceptors",
+    "simp": "eye cells that convert light in the brain"
+  },
+  {
+    "med": "placebo",
+    "simp": "a non-treatment that makes the results more convincing"
+  },
+  {
+    "med": "placebo",
+    "simp": "fake treatment"
+  },
+  {
+    "med": "placebo",
+    "simp": "false pill"
+  },
+  {
+    "med": "placebo",
+    "simp": "non-treatment that makes the results more convincing"
+  },
+  {
+    "med": "placebo",
+    "simp": "pretend pill"
+  },
+  {
+    "med": "placebo",
+    "simp": "sugar pill"
+  },
+  {
+    "med": "plank test",
+    "simp": "holding an elevated position for as long as possible"
+  },
+  {
+    "med": "plank test",
+    "simp": "lying in board-like positon on elbows and toes"
+  },
+  {
+    "med": "plank test with a time-to-failure trial",
+    "simp": "holding an elevated position for as long as possible"
+  },
+  {
+    "med": "plank test with a time-to-failure trial",
+    "simp": "lying in board-like positon on elbows and toes"
+  },
+  {
+    "med": "plantar sensation",
+    "simp": "feeling in the sole of the foot"
+  },
+  {
+    "med": "polymerase chain reaction",
+    "simp": "a test used to detect genetic material from a specific organism"
+  },
+  {
+    "med": "polymerase chain reaction (PCR)",
+    "simp": "a test used to detect genetic material from a specific organism"
+  },
+  {
+    "med": "positive likelihood ratio",
+    "simp": "better prediction of ketoacidosis"
+  },
+  {
+    "med": "postural control",
+    "simp": "balance"
+  },
+  {
+    "med": "postural control",
+    "simp": "maintaining posture during any pose/activity"
+  },
+  {
+    "med": "postural control",
+    "simp": "maintaining posture during any pose/activity, was measured"
+  },
+  {
+    "med": "prebiotic",
+    "simp": "plant fiber"
+  },
+  {
+    "med": "Prebiotics",
+    "simp": "food for gut bacteria"
+  },
+  {
+    "med": "Prebiotics",
+    "simp": "plant and tiny organisms that improve health"
+  },
+  {
+    "med": "prebiotics",
+    "simp": "resistant starch and resistant protein"
+  },
+  {
+    "med": "Prebiotics",
+    "simp": "special plant fibers that help healthy bacteria grow in the gut"
+  },
+  {
+    "med": "primary rhegmatogenous retinal detachment",
+    "simp": "If the retina comes apart from the wall of the eye"
+  },
+  {
+    "med": "primary rhegmatogenous retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "primary rhegmatogenous retinal detachments",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "pro-inflammatory cytokines",
+    "simp": "immune signals that promote inflammation"
+  },
+  {
+    "med": "probiotics",
+    "simp": "good bacteria to consume"
+  },
+  {
+    "med": "probiotics",
+    "simp": "live bacteria and yeasts that are good for the gut"
+  },
+  {
+    "med": "prognoses",
+    "simp": "determination of the outcome"
+  },
+  {
+    "med": "prognosis",
+    "simp": "determination of the outcome"
+  },
+  {
+    "med": "progression-free survival",
+    "simp": "a measurement of how long a patient lives with a disease without the disease getting worse"
+  },
+  {
+    "med": "progression-free survival",
+    "simp": "PFS, time that a patient lives with the disease and it doesn't get worse"
+  },
+  {
+    "med": "progression-free survival",
+    "simp": "time that a patient lives with the disease and it doesn't get worse"
+  },
+  {
+    "med": "progressive disease",
+    "simp": "disease that keeps getting worse"
+  },
+  {
+    "med": "progressive pulmonary fibrosis",
+    "simp": "damage and scarring of lung tissues"
+  },
+  {
+    "med": "proliferative vitreoretinopathy",
+    "simp": "membranes form on the retina, making it harder to reattach"
+  },
+  {
+    "med": "proliferative vitreoretinopathy",
+    "simp": "where membranes form on the retina, making it harder to reattach"
+  },
+  {
+    "med": "proliferative vitreoretinopathy (",
+    "simp": "membranes form on the retina, making it harder to reattach"
+  },
+  {
+    "med": "proliferative vitreoretinopathy (",
+    "simp": "where membranes form on the retina, making it harder to reattach"
+  },
+  {
+    "med": "propionate",
+    "simp": "small fat particle"
+  },
+  {
+    "med": "proprioception",
+    "simp": "awareness of the position of the body"
+  },
+  {
+    "med": "prostaglandin",
+    "simp": "a chemical the body produces in response to injury"
+  },
+  {
+    "med": "prostaglandin",
+    "simp": "oily compounds that signal that part of the body is damaged"
+  },
+  {
+    "med": "prostaglandin",
+    "simp": "oily compounds that signal that part of the body is damaged, leading it to become swollen, red, and tender"
+  },
+  {
+    "med": "pruritus",
+    "simp": "itching"
+  },
+  {
+    "med": "pseudophakic",
+    "simp": "false lens"
+  },
+  {
+    "med": "pseudophakic",
+    "simp": "had an implanted artificial lens"
+  },
+  {
+    "med": "pseudophakic eyes",
+    "simp": "(\"false lens\") eyes"
+  },
+  {
+    "med": "pulmonary fibrosis",
+    "simp": "damage and scarring of lung tissues"
+  },
+  {
+    "med": "pulmonary infiltrates",
+    "simp": "substances denser than air, such as pus, blood, or protein, that form and linger in the lungs"
+  },
+  {
+    "med": "PVR",
+    "simp": "membranes form on the retina, making it harder to reattach"
+  },
+  {
+    "med": "PVR",
+    "simp": "where membranes form on the retina, making it harder to reattach"
+  },
+  {
+    "med": "quadriceps",
+    "simp": "front of the thigh muscle"
+  },
+  {
+    "med": "RA",
+    "simp": "sharpness"
+  },
+  {
+    "med": "RA",
+    "simp": "when your immune system attacks your own joints, causing painful swelling"
+  },
+  {
+    "med": "RA",
+    "simp": "your immune system attacks your own joints, causing painful swelling"
+  },
+  {
+    "med": "radiological aggravation",
+    "simp": "sign of disease worsening on Xray imaging"
+  },
+  {
+    "med": "radiological aggravation.",
+    "simp": "sign of disease worsening on Xray imaging"
+  },
+  {
+    "med": "RD",
+    "simp": "If the macula comes apart from the wall of the eye"
+  },
+  {
+    "med": "RD",
+    "simp": "If the retina comes apart from the wall of the eye"
+  },
+  {
+    "med": "RD",
+    "simp": "macula comes apart from the wall of the eye"
+  },
+  {
+    "med": "RD",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "RD",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position."
+  },
+  {
+    "med": "re-infection",
+    "simp": "getting the virus again from somewhere else"
+  },
+  {
+    "med": "re-positive",
+    "simp": "test positive for a disease again after testing negative (usually with a PCR test)"
+  },
+  {
+    "med": "re-positive",
+    "simp": "when a person tests negative consecutively and then retests positive for the same infection"
+  },
+  {
+    "med": "re-positive",
+    "simp": "when a person tests negative consecutively and then retests positive for the same infection."
+  },
+  {
+    "med": "re-positive",
+    "simp": "when you test positive for a disease again after testing negative"
+  },
+  {
+    "med": "re-positive case",
+    "simp": "test positive for a disease again after testing negative (usually with a PCR test)"
+  },
+  {
+    "med": "re-positive case",
+    "simp": "when a person tests negative consecutively and then retests positive for the same infection"
+  },
+  {
+    "med": "re-positive case",
+    "simp": "when a person tests negative consecutively and then retests positive for the same infection."
+  },
+  {
+    "med": "re-positive case",
+    "simp": "when you test positive for a disease again after testing negative"
+  },
+  {
+    "med": "reactivation",
+    "simp": "activation of the same infection"
+  },
+  {
+    "med": "reactivation",
+    "simp": "the virus never fully leaving the body and coming back"
+  },
+  {
+    "med": "reading acuity",
+    "simp": "sharpness"
+  },
+  {
+    "med": "recurrence",
+    "simp": "is when a person tests negative consecutively and then retests positive for the same infection"
+  },
+  {
+    "med": "recurrence cases",
+    "simp": "is when a person tests negative consecutively and then retests positive for the same infection"
+  },
+  {
+    "med": "recurrence of positive",
+    "simp": "test positive for a disease again after testing negative (usually with a PCR test)"
+  },
+  {
+    "med": "recurrence of positive",
+    "simp": "when a person tests negative consecutively and then retests positive for the same infection"
+  },
+  {
+    "med": "recurrence of positive",
+    "simp": "when a person tests negative consecutively and then retests positive for the same infection."
+  },
+  {
+    "med": "recurrence of positive",
+    "simp": "when you test positive for a disease again after testing negative"
+  },
+  {
+    "med": "reinfection",
+    "simp": "get the same disease that you have already gotten over"
+  },
+  {
+    "med": "reinfection",
+    "simp": "having COVID-19, detecting the virus again with a PCR test, and getting COVID-19 within three months of the original symptoms"
+  },
+  {
+    "med": "reinfection",
+    "simp": "person's symptoms worsen after a period of getting better with the same infection"
+  },
+  {
+    "med": "reinfection",
+    "simp": "the disease never fully went away and comes back"
+  },
+  {
+    "med": "reinfection",
+    "simp": "when a person was infected, recovered, and then later became infected again"
+  },
+  {
+    "med": "reinfection",
+    "simp": "when a person's symptoms worsen after a period of getting better with the same infection"
+  },
+  {
+    "med": "reinfection",
+    "simp": "when the disease never fully went away and comes back"
+  },
+  {
+    "med": "reinfection",
+    "simp": "when you get the same disease that you have already gotten over"
+  },
+  {
+    "med": "relapse",
+    "simp": "come back"
+  },
+  {
+    "med": "relapse",
+    "simp": "worsening in symptoms after a period of getting better"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "get the same disease that you have already gotten over"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "having COVID-19, detecting the virus again with a PCR test, and getting COVID-19 within three months of the original symptoms"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "person's symptoms worsen after a period of getting better with the same infection"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "the disease never fully went away and comes back"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "when a person was infected, recovered, and then later became infected again"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "when a person's symptoms worsen after a period of getting better with the same infection"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "when the disease never fully went away and comes back"
+  },
+  {
+    "med": "relapsed infection",
+    "simp": "when you get the same disease that you have already gotten over"
+  },
+  {
+    "med": "relapses",
+    "simp": "had worsening symptoms after a period of getting better"
+  },
+  {
+    "med": "relapses",
+    "simp": "the COVID-19 came back"
+  },
+  {
+    "med": "relapsing infection",
+    "simp": "worsening in symptoms after a period of getting better"
+  },
+  {
+    "med": "Remdesivir",
+    "simp": "a new drug designed to treat COVID-19"
+  },
+  {
+    "med": "remdesivir",
+    "simp": "a new drug for COVID-19"
+  },
+  {
+    "med": "Remdesivir",
+    "simp": "antiviral"
+  },
+  {
+    "med": "remdesivir",
+    "simp": "antiviral medication"
+  },
+  {
+    "med": "renal",
+    "simp": "kidney"
+  },
+  {
+    "med": "renin-angiotensin inhibitors",
+    "simp": "both among the drugs that reduce blood pressure"
+  },
+  {
+    "med": "renin-angiotensin inhibitors",
+    "simp": "drugs that reduce blood pressure"
+  },
+  {
+    "med": "renin-angiotensin inhibitors",
+    "simp": "lower blood pressure"
+  },
+  {
+    "med": "renin-angiotensin inhibitors",
+    "simp": "which lower blood pressure"
+  },
+  {
+    "med": "Resistant starch",
+    "simp": "starch that avoids digestion in the small intestine"
+  },
+  {
+    "med": "resistant starch",
+    "simp": "starch that does not get digested"
+  },
+  {
+    "med": "resistant starch",
+    "simp": "starch that gets fermented in the colon instead of being digested"
+  },
+  {
+    "med": "resistant starch",
+    "simp": "starch that is fermented in the colon instead of being digested in the intestine"
+  },
+  {
+    "med": "resistant starch",
+    "simp": "starch that is fermented in the colon instead of being digested in the intestines"
+  },
+  {
+    "med": "Resistant starch",
+    "simp": "starch that is not digested"
+  },
+  {
+    "med": "Resistant starch",
+    "simp": "starch that isn't digested in the small intestine"
+  },
+  {
+    "med": "resistant starch and resistant proteins",
+    "simp": "starch and proteins that aren't digested"
+  },
+  {
+    "med": "Resistant starches",
+    "simp": "fermented in the colon because they are not digested"
+  },
+  {
+    "med": "resistant starches",
+    "simp": "fermented in the colon instead of being digested"
+  },
+  {
+    "med": "resistant starches",
+    "simp": "gets fermented in the colon instead of being digested"
+  },
+  {
+    "med": "Resistant starches",
+    "simp": "starches that aren't digested by stomach juices"
+  },
+  {
+    "med": "resistant starches",
+    "simp": "starches that enter the colon"
+  },
+  {
+    "med": "resistant starches",
+    "simp": "starches that get to the gut in food"
+  },
+  {
+    "med": "respiratory failure",
+    "simp": "failure to breath"
+  },
+  {
+    "med": "response rates",
+    "simp": "percentage of people in a study or treatment group who have a partial or complete response to the treatment within a certain period of time"
+  },
+  {
+    "med": "retinal",
+    "simp": "the light-sensitive layer inside the eye"
+  },
+  {
+    "med": "retinal",
+    "simp": "the tissue at the back of the eye that captures images"
+  },
+  {
+    "med": "retinal",
+    "simp": "tissue at the back of the eye that captures images"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "a tear in the retina leads to fluid accumulation which separates the retina from the underlying tissues"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "come apart from the wall of the eye"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "damage to the eye that happens when the retina (a light-sensitive layer at the back of the eye) is pulled away from its normal position"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "If the retina comes apart from the wall of the eye"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "It can come apart from the wall of the eye"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "retinal detachment",
+    "simp": "the damage to the eye that happens when the retina (a light-sensitive layer at the back of the eye) is pulled away from its normal position"
+  },
+  {
+    "med": "Retrospective",
+    "simp": "past cases of the treatment"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "a tear in the retina leads to fluid accumulation which separates the retina from the underlying tissues"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "come apart from the wall of the eye"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "damage to the eye that happens when the retina (a light-sensitive layer at the back of the eye) is pulled away from its normal position"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "If the retina comes apart from the wall of the eye"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "It can come apart from the wall of the eye"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "rhegmatogenous retinal detachment",
+    "simp": "the damage to the eye that happens when the retina (a light-sensitive layer at the back of the eye) is pulled away from its normal position"
+  },
+  {
+    "med": "rheumatic",
+    "simp": "diseases affect your joints, tendons, ligaments, bones, and muscles"
+  },
+  {
+    "med": "rheumatic",
+    "simp": "diseases that affect the joints"
+  },
+  {
+    "med": "rheumatic diseases",
+    "simp": "affect your joints, tendons, ligaments, bones, and muscles"
+  },
+  {
+    "med": "rheumatic diseases",
+    "simp": "diseases that affect the joints"
+  },
+  {
+    "med": "rheumatoid arthritis",
+    "simp": "when your immune system attacks your own joints, causing painful swelling"
+  },
+  {
+    "med": "rheumatoid arthritis",
+    "simp": "your immune system attacks your own joints, causing painful swelling"
+  },
+  {
+    "med": "RNA positive conversion",
+    "simp": "the period between the day of the 1st rapid test positive result and the day of the 2nd successive negative test result"
+  },
+  {
+    "med": "routes of administration",
+    "simp": "location through which the drug is given"
+  },
+  {
+    "med": "routes of administration",
+    "simp": "location through which the drug is given, e.g., inhaled or swallowed"
+  },
+  {
+    "med": "RPE",
+    "simp": "a particular layer of the retina"
+  },
+  {
+    "med": "RRD",
+    "simp": "a tear in the retina leads to fluid accumulation which separates the retina from the underlying tissues"
+  },
+  {
+    "med": "RRD",
+    "simp": "breaks of the retina that result in light flashes or \"dark curtains\" in vision"
+  },
+  {
+    "med": "RRD",
+    "simp": "come apart from the wall of the eye"
+  },
+  {
+    "med": "RRD",
+    "simp": "If the retina comes apart from the wall of the eye"
+  },
+  {
+    "med": "RRD",
+    "simp": "It can come apart from the wall of the eye"
+  },
+  {
+    "med": "RRD",
+    "simp": "the damage to light-sensitive layer at the back of the eye (retina) when it is pulled away from its normal position"
+  },
+  {
+    "med": "RS",
+    "simp": "starch that avoids digestion in the small intestine"
+  },
+  {
+    "med": "RS",
+    "simp": "starch that is fermented in the colon instead of being digested in the intestine"
+  },
+  {
+    "med": "RS",
+    "simp": "starch that is fermented in the colon instead of being digested in the intestines"
+  },
+  {
+    "med": "RS",
+    "simp": "starch that is not digested"
+  },
+  {
+    "med": "RS",
+    "simp": "starch that isn't digested in the small intestine"
+  },
+  {
+    "med": "RSs",
+    "simp": "starches that aren't digested by stomach juices"
+  },
+  {
+    "med": "rupture",
+    "simp": "break open"
+  },
+  {
+    "med": "rupture",
+    "simp": "breaking open"
+  },
+  {
+    "med": "rupture",
+    "simp": "breaking open of the artery"
+  },
+  {
+    "med": "Rupture",
+    "simp": "bursting"
+  },
+  {
+    "med": "rupture",
+    "simp": "bursting"
+  },
+  {
+    "med": "ruptures",
+    "simp": "break open"
+  },
+  {
+    "med": "ruptures",
+    "simp": "breaking open"
+  },
+  {
+    "med": "ruptures",
+    "simp": "breaking open of the artery"
+  },
+  {
+    "med": "ruptures",
+    "simp": "bursting"
+  },
+  {
+    "med": "SARS-CoV-2",
+    "simp": "SARS-CoV-2"
+  },
+  {
+    "med": "SARS-CoV-2 infection",
+    "simp": "SARS-CoV-2"
+  },
+  {
+    "med": "SB",
+    "simp": "a band or sponge to indent part of the eye"
+  },
+  {
+    "med": "SBP",
+    "simp": "treatment for retina breaks"
+  },
+  {
+    "med": "SBP",
+    "simp": "where a silicone band or sponge is used to indent the parts of the eye where the tears are"
+  },
+  {
+    "med": "SCFA",
+    "simp": "byproducts of fiber digestion"
+  },
+  {
+    "med": "SCFA",
+    "simp": "produced by friendly bacteria in the gut"
+  },
+  {
+    "med": "SCFA",
+    "simp": "small fat particles made by gut bacteria"
+  },
+  {
+    "med": "SCFA",
+    "simp": "which are produced by friendly bacteria in the gut"
+  },
+  {
+    "med": "scleral buckle",
+    "simp": "a band or sponge to indent part of the eye"
+  },
+  {
+    "med": "scleral buckling procedure",
+    "simp": "treatment for retina breaks"
+  },
+  {
+    "med": "scleral buckling procedure",
+    "simp": "where a silicone band or sponge is used to indent the parts of the eye where the tears are"
+  },
+  {
+    "med": "SCr",
+    "simp": "a byproduct of creatine breakdown which supplies energy for muscle contraction"
+  },
+  {
+    "med": "SCr",
+    "simp": "filtered from the blood by the kidneys and is often used to determine kidney function"
+  },
+  {
+    "med": "second-line antifibrotic",
+    "simp": "taking a different antifibrotic drug than the one initially used for treatment"
+  },
+  {
+    "med": "segmental scleral-buckling procedures",
+    "simp": "silicone sponge is used to make an indentation in the eye"
+  },
+  {
+    "med": "segmental scleral-buckling procedures",
+    "simp": "treatment for retina breaks"
+  },
+  {
+    "med": "segmental scleral-buckling procedures",
+    "simp": "when a silicone sponge is used to make an indentation in the eye"
+  },
+  {
+    "med": "sensitivity",
+    "simp": "how accurate positive tests were"
+  },
+  {
+    "med": "sensorimotor control",
+    "simp": "both senses and movement"
+  },
+  {
+    "med": "serum creatinine",
+    "simp": "a byproduct of creatine breakdown which supplies energy for muscle contraction"
+  },
+  {
+    "med": "serum creatinine",
+    "simp": "a marker of kidney function"
+  },
+  {
+    "med": "serum creatinine",
+    "simp": "filtered from the blood by the kidneys and is often used to determine kidney function"
+  },
+  {
+    "med": "serum creatinine",
+    "simp": "only produced by the muscle"
+  },
+  {
+    "med": "severe acute respiratory syndrome coronavirus 2",
+    "simp": "SARS-CoV-2"
+  },
+  {
+    "med": "severe moccasin-type tinea pedis",
+    "simp": "a type of athlete's foot affecting the bottom and sides of the feet"
+  },
+  {
+    "med": "SFFH",
+    "simp": "a surgical technique for eye lens"
+  },
+  {
+    "med": "shed virus",
+    "simp": "release copies of a virus from their bodies"
+  },
+  {
+    "med": "Short-chain fatty acid",
+    "simp": "byproducts of fiber digestion"
+  },
+  {
+    "med": "Short-chain fatty acid",
+    "simp": "chemical that is produced by good gut bacteria"
+  },
+  {
+    "med": "short-chain fatty acids",
+    "simp": "a byproduct of fiber digestion"
+  },
+  {
+    "med": "short-chain fatty acids",
+    "simp": "byproducts of fiber digestion"
+  },
+  {
+    "med": "short-chain fatty acids",
+    "simp": "produced by friendly bacteria in the gut"
+  },
+  {
+    "med": "short-chain fatty acids",
+    "simp": "small fat particles made by gut bacteria"
+  },
+  {
+    "med": "short-chain fatty acids",
+    "simp": "which are produced by friendly bacteria in the gut"
+  },
+  {
+    "med": "somato-sensory",
+    "simp": "feeling"
+  },
+  {
+    "med": "somato-sensory",
+    "simp": "which are responsible for the muscle function"
+  },
+  {
+    "med": "specificity",
+    "simp": "how accurate negative tests were"
+  },
+  {
+    "med": "specificity",
+    "simp": "how accurate negative tests were)"
+  },
+  {
+    "med": "Sporanox",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "subfoveal fluid height",
+    "simp": "a surgical technique for eye lens"
+  },
+  {
+    "med": "subunit vaccines",
+    "simp": "made of protein parts of the virus that are capable of bringing on a protective immune response"
+  },
+  {
+    "med": "subunit vaccines",
+    "simp": "made of protein parts of the virus that are capable of bringing on a protective immune response only cause antibody responses, preventing the effect on T-cells."
+  },
+  {
+    "med": "subunit vaccines",
+    "simp": "produce only the part of the virus that the immune system recognizes the most"
+  },
+  {
+    "med": "subunit vaccines",
+    "simp": "vaccine that uses a part of the virus"
+  },
+  {
+    "med": "superficial capillary plexus",
+    "simp": "small blood vessels"
+  },
+  {
+    "med": "superficial dermatophyte infections",
+    "simp": "(fungal) skin infections"
+  },
+  {
+    "med": "superficial dermatophyte infections",
+    "simp": "fungal infections on or near the surface of the skin"
+  },
+  {
+    "med": "Superficial fungal infections",
+    "simp": "an infection of or near the surface of the skin caused by a fungus, affect millions of people throughout the world"
+  },
+  {
+    "med": "Superficial fungal infections",
+    "simp": "infection of or near the surface of the skin caused by a fungus"
+  },
+  {
+    "med": "superficial fungal infections",
+    "simp": "infections on or near the surface of the skin"
+  },
+  {
+    "med": "superficial mycotic infection",
+    "simp": "an infection of or near the surface of the skin caused by a fungus"
+  },
+  {
+    "med": "superficial mycotic infection",
+    "simp": "infection of or near the surface of the skin caused by a fungus"
+  },
+  {
+    "med": "superficial mycotic infection",
+    "simp": "skin disease caused by fungi"
+  },
+  {
+    "med": "surgical repair",
+    "simp": "chest-opening surgery"
+  },
+  {
+    "med": "surgical repair",
+    "simp": "in which the surgeon opens the belly to fix the aneurism"
+  },
+  {
+    "med": "survival difference",
+    "simp": "difference in how long people survived"
+  },
+  {
+    "med": "sutured woven",
+    "simp": "a fabric tube"
+  },
+  {
+    "med": "sutured woven graft",
+    "simp": "a fabric tube"
+  },
+  {
+    "med": "sutured woven graft",
+    "simp": "a healthy substitute"
+  },
+  {
+    "med": "systemic hyperthermia",
+    "simp": "overheating"
+  },
+  {
+    "med": "T cells",
+    "simp": "a type of white blood cell"
+  },
+  {
+    "med": "T cells",
+    "simp": "destroy the virus"
+  },
+  {
+    "med": "T cells",
+    "simp": "type of white blood cell"
+  },
+  {
+    "med": "T-cell",
+    "simp": "a type of white blood cell"
+  },
+  {
+    "med": "T-cell",
+    "simp": "destroy the virus"
+  },
+  {
+    "med": "T-cell",
+    "simp": "type of white blood cell"
+  },
+  {
+    "med": "T-cell responses",
+    "simp": "which destroy the virus"
+  },
+  {
+    "med": "terbinafine",
+    "simp": "a type of antifungal pill"
+  },
+  {
+    "med": "terbinafine",
+    "simp": "an anti-fungal drug used for ringworm, jock itch, athlete's foot, and toenail fungus"
+  },
+  {
+    "med": "terbinafine",
+    "simp": "anti-fungal drug used for ringworm, jock itch, athlete's foot, and toenail fungus"
+  },
+  {
+    "med": "terbinafine",
+    "simp": "antifungal pill"
+  },
+  {
+    "med": "terbinafine",
+    "simp": "first-line treatment for tinea capitis and onychomycosis"
+  },
+  {
+    "med": "the reference group",
+    "simp": "in the normal serum creatinine range"
+  },
+  {
+    "med": "thermotherapy",
+    "simp": "heat or cold therapy"
+  },
+  {
+    "med": "thermotherapy",
+    "simp": "the use of heat"
+  },
+  {
+    "med": "time-to-failure trial",
+    "simp": "until the person could no longer hold the pose"
+  },
+  {
+    "med": "tinea",
+    "simp": "a skin infection caused by dermatophytes"
+  },
+  {
+    "med": "tinea",
+    "simp": "a type of fungal infection"
+  },
+  {
+    "med": "Tinea",
+    "simp": "group of diseases caused by certain fungi"
+  },
+  {
+    "med": "tinea",
+    "simp": "is a skin infection caused by dermatophytes (fungi)"
+  },
+  {
+    "med": "Tinea",
+    "simp": "skin infection caused by a certain type of fungus"
+  },
+  {
+    "med": "tinea",
+    "simp": "type of fungal infection"
+  },
+  {
+    "med": "tinea capitis",
+    "simp": "fungal infection of the scalp"
+  },
+  {
+    "med": "tinea capitis",
+    "simp": "ringworm of the scalp"
+  },
+  {
+    "med": "Tinea corporis",
+    "simp": "ringworm"
+  },
+  {
+    "med": "tinea corporis",
+    "simp": "ringworm"
+  },
+  {
+    "med": "tinea corporis/tinea cruris",
+    "simp": "ringworm"
+  },
+  {
+    "med": "tinea cruris",
+    "simp": "gym itch"
+  },
+  {
+    "med": "tinea cruris",
+    "simp": "jock itch"
+  },
+  {
+    "med": "tinea faciei",
+    "simp": "fungal infection of the face"
+  },
+  {
+    "med": "tinea faciei",
+    "simp": "on the face"
+  },
+  {
+    "med": "tinea faciei",
+    "simp": "ringworm of the face"
+  },
+  {
+    "med": "Tinea infections",
+    "simp": "group of diseases caused by certain fungi"
+  },
+  {
+    "med": "Tinea infections",
+    "simp": "skin infection"
+  },
+  {
+    "med": "tinea pedis",
+    "simp": "athlete's foot"
+  },
+  {
+    "med": "tinea pedis",
+    "simp": "athlete's foot)"
+  },
+  {
+    "med": "tinea pedis/manus",
+    "simp": "athlete's foot"
+  },
+  {
+    "med": "tinea pedis/manus",
+    "simp": "athlete's foot)"
+  },
+  {
+    "med": "tinea unguium",
+    "simp": "nail fungus"
+  },
+  {
+    "med": "tinea unguium",
+    "simp": "onychomycosis -- infection of nail"
+  },
+  {
+    "med": "TNF-α",
+    "simp": "body chemicals that may be harmful in large quantities"
+  },
+  {
+    "med": "TNF-α",
+    "simp": "involved in cell health"
+  },
+  {
+    "med": "tomographic",
+    "simp": "cross-sectional imaging"
+  },
+  {
+    "med": "trichophytin",
+    "simp": "a type of fungus that can cause infections in humans"
+  },
+  {
+    "med": "Trichophyton",
+    "simp": "a fungus"
+  },
+  {
+    "med": "Trichophyton",
+    "simp": "a type of fungus"
+  },
+  {
+    "med": "Trichophyton",
+    "simp": "dermatophyte molds"
+  },
+  {
+    "med": "UcrV",
+    "simp": "removal of creatinine from the entire body"
+  },
+  {
+    "med": "UcrV",
+    "simp": "urine creatinine levels"
+  },
+  {
+    "med": "UDVA",
+    "simp": "without glasses or contacts"
+  },
+  {
+    "med": "ulcerative colitis",
+    "simp": "a breakdown of the colon wall"
+  },
+  {
+    "med": "ulcerative colitis",
+    "simp": "a disease where the wall of the colon breaks down"
+  },
+  {
+    "med": "ulcerative colitis",
+    "simp": "an inflammatory bowel disease"
+  },
+  {
+    "med": "ulcerative colitis",
+    "simp": "inflammation and ulcers in the gut"
+  },
+  {
+    "med": "ulcerative colitis",
+    "simp": "inflammatory bowel disease"
+  },
+  {
+    "med": "Ultrasonography",
+    "simp": "a test that uses sound waves to take pictures"
+  },
+  {
+    "med": "ultrasonography",
+    "simp": "a test that uses sound waves to take pictures"
+  },
+  {
+    "med": "Ultrasound",
+    "simp": "a test that uses sound waves to take pictures"
+  },
+  {
+    "med": "ultrasound",
+    "simp": "a test that uses sound waves to take pictures"
+  },
+  {
+    "med": "Ultrasounds",
+    "simp": "a test that uses sound waves to take pictures"
+  },
+  {
+    "med": "ultrasounds",
+    "simp": "a test that uses sound waves to take pictures"
+  },
+  {
+    "med": "uncorrected distance",
+    "simp": "without glasses or contacts"
+  },
+  {
+    "med": "unguium",
+    "simp": "nails"
+  },
+  {
+    "med": "unguium variants",
+    "simp": "nails"
+  },
+  {
+    "med": "urea",
+    "simp": "(a waste chemical made when the body breaks down protein"
+  },
+  {
+    "med": "urea",
+    "simp": "a waste chemical made when the body breaks down protein"
+  },
+  {
+    "med": "urea",
+    "simp": "is the main product when protein is broken down in the body"
+  },
+  {
+    "med": "urea",
+    "simp": "liver waste product"
+  },
+  {
+    "med": "urea",
+    "simp": "the main product when protein is broken down in the body"
+  },
+  {
+    "med": "uremic toxin",
+    "simp": "toxic chemicals that get into the blood because the kidneys cannot filter them out"
+  },
+  {
+    "med": "uremic toxins",
+    "simp": "toxic chemicals that get into the blood because the kidneys cannot filter them out"
+  },
+  {
+    "med": "uric acid",
+    "simp": "a waste product in urine"
+  },
+  {
+    "med": "VA",
+    "simp": "vision sharpness"
+  },
+  {
+    "med": "VA",
+    "simp": "vison sharpness"
+  },
+  {
+    "med": "vaccine platforms such as RNA",
+    "simp": "genetically engineered and give your cells instructions for how to build immunity to a virus"
+  },
+  {
+    "med": "vertigo",
+    "simp": "a feeling of spinning"
+  },
+  {
+    "med": "Vertigo",
+    "simp": "a spinning feeling"
+  },
+  {
+    "med": "vertigo",
+    "simp": "head spinning"
+  },
+  {
+    "med": "Vertigo",
+    "simp": "sensation of spinning"
+  },
+  {
+    "med": "vestibular end-organ",
+    "simp": "responsible for balance"
+  },
+  {
+    "med": "vestibular end-organ",
+    "simp": "the organ of balance in the inner ear"
+  },
+  {
+    "med": "vestibular end-organ type",
+    "simp": "responsible for balance"
+  },
+  {
+    "med": "vestibular end-organ type",
+    "simp": "the organ of balance in the inner ear"
+  },
+  {
+    "med": "vestibular function",
+    "simp": "responsible for balance"
+  },
+  {
+    "med": "vestibular function",
+    "simp": "which is responsible for balance"
+  },
+  {
+    "med": "viral clearance",
+    "simp": "the time from the first positive test to the first of two consecutive negative tests"
+  },
+  {
+    "med": "viral clearance",
+    "simp": "time from the first positive test to the first of two consecutive negative tests"
+  },
+  {
+    "med": "viral replication",
+    "simp": "the process of a virus creating new, infectious viral germs that are able to infect other cells of the body or subsequent hosts"
+  },
+  {
+    "med": "viral shedding",
+    "simp": "release of copies of a virus from the body"
+  },
+  {
+    "med": "viral shedding",
+    "simp": "the release of copies of a virus from the body"
+  },
+  {
+    "med": "viral shedding duration",
+    "simp": "(the release of copies of a virus from the body"
+  },
+  {
+    "med": "viral vector vaccines",
+    "simp": "which use a different harmless virus to produce a protein that helps immune systems fight COVID-19"
+  },
+  {
+    "med": "visual acuity",
+    "simp": "ability to see small details in a standard vision test"
+  },
+  {
+    "med": "Visual acuity",
+    "simp": "vision sharpness"
+  },
+  {
+    "med": "visual acuity",
+    "simp": "vision sharpness"
+  },
+  {
+    "med": "visual acuity",
+    "simp": "vison sharpness"
+  },
+  {
+    "med": "whole-body hyperthermia",
+    "simp": "overheating"
+  },
+  {
+    "med": "X-linked agammaglobulinemia",
+    "simp": "an inherited disorder in which a person has low levels of immunoglobulins, a type of antibody"
+  },
+  {
+    "med": "X-linked agammaglobulinemia",
+    "simp": "which a person has low levels of immunoglobulins, a type of antibody"
+  },
+  {
+    "med": "Y balance test",
+    "simp": "move along a large \"Y\" shape on the floor"
+  },
+  {
+    "med": "Y balance test",
+    "simp": "test where you move along a large \"Y\" shape on the floor"
+  },
+  {
+    "med": "YBT",
+    "simp": "move along a large \"Y\" shape on the floor"
+  },
+  {
+    "med": "YBT",
+    "simp": "test where you move along a large \"Y\" shape on the floor"
+  },
+  {
+    "med": "Zenith stent-graft",
+    "simp": "a doctor replaces a blood vessel or tissue that's missing or damaged with a healthy substitute, called the graf"
+  },
+  {
+    "med": "Zenith stent-graft",
+    "simp": "which replaced the damaged aorta wall"
+  },
+  {
+    "med": "β-Hydroxybutyrate",
+    "simp": "a chemical measured in blood"
+  }
+]
