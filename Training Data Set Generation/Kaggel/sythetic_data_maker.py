@@ -18,8 +18,6 @@ MODEL_NAME = "gpt-oss:20b-cloud"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# genai.configure(api_key="AIzaSyBgs9b_qEllVzvRgSxSKKx6bRwAdCkN0VI")
-# model = genai.GenerativeModel(MODEL_NAME)
 
 
 
@@ -58,41 +56,7 @@ Medical text:
 
     return response["message"]["content"].strip()
 
-# ----------------------------
-# GEMINI FUNCTION
-# ----------------------------
-# def medical_to_layman(medical_text: str) -> str:
-#     prompt = f"""
-# You are a medical language simplification system.
 
-# Task:
-# Convert the following medical text into clear, simple English
-# that a non-medical person can easily understand.
-
-# Rules:
-# - Keep the same meaning
-# - Do NOT add medical advice
-# - Do NOT remove important information
-# - Use simple words
-# - Output ONLY the simplified text
-
-# Medical Text:
-# {medical_text}
-# """
-
-#     response = model.generate_content(
-#         prompt,
-#         generation_config={
-#             "temperature": 0.3,
-#             "max_output_tokens": 1024
-#         }
-#     )
-
-#     return response.text.strip()
-
-# ----------------------------
-# MAIN PIPELINE
-# ----------------------------
 def main():
     with open(INPUT_JSON, "r", encoding="utf-8") as f:
         medical_data = json.load(f)
