@@ -62,7 +62,8 @@ This repository is organized to reflect the chronological stages of our training
 
 ---
 
-###How to Navigate1. Start with **`Training Data Set Generation`** to understand the data provenance.
-2. Review **`Stage 1 Code`** and **`Stage 2 Code`** to see the hyperparameter settings and training loops.
-3. Compare **`Stage 2 results`** with **`Experiment-only domain specific training`** to view the ablation study findings.
-
+# Contributors
+1. Krish Bhatia
+2. Sailendra Kolluru 
+3. Aryan Rao
+4. Adarsh Mukherjee 
