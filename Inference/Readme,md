@@ -1,0 +1,93 @@
+
+# Medical to Layman Translator (Inference)
+This project provides tools to translate complex medical jargon into plain, easy-to-understand language ("Layman terms"). It utilizes a fine-tuned **FLAN-T5** model to perform text simplification, specifically targeting clinical and regulatory use cases.
+
+## Project Structure
+```text
+Inference/
+│
+├── flan_t5_base_lora_merged/  # Model Artifacts (Not Uploaded due to Git hub size limit)
+│   ├── adapter_config.json
+│   └── adapter_model.bin      # LoRA adapter weights (Stage 2) + Config
+│                              # (Note: Does not contain full base model weights)
+│
+├── clinical_trial_example.py  # Advanced Streamlit App (Clinical Trial Scenario)
+├── Simple_ui.py               # Basic Streamlit App (General Purpose)
+└── Example_testing.py         # Command-line Interface (CLI) testing script
+
+```
+
+> **Link to Model Zip :** [flan_t5_base_lora_merged](https://drive.google.com/file/d/1aHgiLdM7Cah1Kcvwi1mzIxNoZRx13XSv/view?usp=sharing)
+
+## Setup & Installation
+Choose one of the methods below to set up your environment.
+
+### Option A: Using Conda (Recommended)
+Best for managing complex dependencies and GPU libraries.
+
+```powershell
+# 1. Create the environment
+conda create -n nlp-env python=3.10 -y
+
+# 2. Activate the environment
+conda activate nlp-env
+
+# 3. Install Core Libraries (PyTorch, Transformers, Accelerate)
+conda install -c conda-forge pytorch transformers accelerate sentencepiece -y
+
+# 4. Install UI Library
+pip install streamlit watchdog
+
+```
+
+### Option B: Using Standard Python (Pip)
+Use this if you do not have Anaconda installed.
+
+```powershell
+# 1. Create a virtual environment (PowerShell)
+python -m venv venv
+
+# 2. Activate the environment
+.\venv\Scripts\Activate.ps1
+
+# 3. Install all dependencies
+pip install torch transformers accelerate sentencepiece streamlit watchdog
+
+```
+
+> **Note for Pip Users:** If you have a dedicated NVIDIA GPU and want to ensure PyTorch uses it, you may need to install the specific CUDA-enabled version of PyTorch before running the command above. Visit [pytorch.org/get-started](https://pytorch.org/get-started/locally/) for the exact command.
+
+## Usage
+Make sure your conda environment is active (`conda activate nlp-env`) before running any scripts.
+
+### 1. Clinical Trial Summarizer (Main App)
+This application is designed for Medical Writers. It provides a split-view interface to draft "Plain Language Summaries" for clinical protocols (e.g., Study Designs, Inclusion Criteria).
+
+```powershell
+streamlit run clinical_trial_example.py
+
+```
+
+### 2. Simple Translator UI
+A lightweight interface for general medical text simplification.
+
+```powershell
+streamlit run Simple_ui.py
+
+```
+
+### 3. Command Line Test
+Quickly test if the model loads and runs inference without opening a web browser.
+
+```powershell
+python Example_testing.py
+
+```
+
+## Model Details
+The model located in `flan_t5_base_lora_merged` consists of:
+
+* **LoRA Adapter Weights (Stage 2):** Lightweight fine-tuned parameters specifically trained for medical text simplification.
+* **Configuration Files:** JSON configs defining the model architecture and generation parameters.
+
+*Note: This folder relies on the base FLAN-T5 architecture. Ensure your internet connection is active during the first run if the base model needs to be cached by the Transformers library.*
