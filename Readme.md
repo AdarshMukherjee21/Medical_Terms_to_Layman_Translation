@@ -105,6 +105,9 @@ This repository is organized to reflect the chronological stages of our training
 * **Final Model Outputs.** Contains the performance metrics and generated examples from our best-performing model.
 
 
+* **`Inference/`**
+* **Deployment & Demo Code.** Contains the LoRA adapter weights, simple CLI scripts, and Streamlit web applications (general and clinical trial specific) for running the model.
+
 
 ### Experimental testing
 * **`Experiment-only domain specific training/`**
